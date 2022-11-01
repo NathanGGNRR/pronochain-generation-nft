@@ -1,0 +1,15 @@
+docker-compose.dev.yml
+docker-compose.prod.yml
+docker-compose.yml
+dockerfiles
+.git
+.gitignore
+pronochain
+pronochain_generation_nft.egg-info
+README.md
+dist
+build
+.pytest_cache
+__pycache__
+car-api/node_modules
+car-api/npm-debug.log

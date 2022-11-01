@@ -1,0 +1,36 @@
+code;value;abbreviation;type;element_code
+1;Defender;D;;37
+2;Midfielder;M;;38
+3;Attacker;A;;39
+4;Goalkeeper;G;;40
+5;Attacking Midfielder;AM;3;
+6;Attacking Midfielder Center;AM C;3;
+7;Attacking Midfielder Left;AM L;3;
+8;Attacking Midfielder Left Center;AM LC;3;
+9;Attacking Midfielder Right;AM R;3;
+10;Attacking Midfielder Right Center;AM RC;3;
+11;Attacking Midfielder Right Left;AM RL;3;
+12;Attacking Midfielder Right Left Center;AM RLC;3;
+13;Defend;D;1;
+14;Center Back;D C;1;
+15;Left Back;D L;1;
+16;Left Center Back;D LC;1;
+17;Right Back;D R;1;
+18;Right Center Back;D RC;1;
+19;Right Left Back;D RL;1;
+20;Right Left Center Back;D RLC;1;
+21;Defensive Midfielder;DM;2;
+22;Center Forward;F C;3;
+23;Goalkeeper;GK;4;
+24;Center Midfielder;M C;2;
+25;Left Midfielder;M L;2;
+26;Left Center Midfielder;M LC;2;
+27;Right Midfielder;M R;2;
+28;Right Center Midfielder;M RC;2;
+29;Right Left Midfielder;M RL;2;
+30;Right Left Center Midfielder;M RLC;2;
+31;Striker;ST;3;
+32;Wing Back;WB;1;
+33;Wing Back Left;WB L;1;
+34;Wing Back Right;WB R;1;
+35;Wing Back Right Left;WB RL;1;

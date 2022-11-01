@@ -1,0 +1,60 @@
+﻿code;value;type;positions_codes
+1;Goalkeeping;;
+2;Mental;;
+3;Physical;;
+4;Technical;;
+5;Aerial Ability;1;23
+6;Command Of Area;1;23
+7;Communication;1;23
+8;Eccentricity;1;23
+9;First Touch;1,4;23,5,6,7,8,9,10,11,12,13,14,21,22,24,32,33,34,35,25,26,27,28,29,30,31
+10;Handling;1;23
+11;Kicking;1;23
+12;One On Ones;1;23
+13;Passing;1,4;23,5,6,7,8,9,10,11,12,13,14,21,15,16,17,18,19,20,22,24,32,33,34,35,25,26,27,28,29,30,31
+14;Tendency To Punch;1;23
+15;Reflexes;1;23
+16;Rushing Out;1;23
+17;Throwing;1;23
+18;Corners;4;
+19;Crossing;4;15,16,17,18,19,20,25,26,27,28,29,30
+20;Dribbling;4;5,6,7,8,9,10,11,12,15,16,17,18,19,20,22,24,32,33,34,35,25,26,27,28,29,30,31
+21;Finishing;4;5,6,7,8,9,10,11,12,21,31
+22;Freekicks;4;
+23;Heading;4;13,14,31
+24;Long Shots;4;5,6,7,8,9,10,11,12,21,22,24,25,26,27,28,29,30
+25;Long Throws;4;
+26;Marking;4;13,14,21,15,16,17,18,19,20,32,33,34,35
+27;Penalty Taking;4;
+28;Tackling;4;13,14,21,15,16,17,18,19,20,32,33,34,35
+29;Technique;4;5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,24,32,33,34,35,25,26,27,28,29,30,31
+30;Aggression;2;
+31;Anticipation;2;
+32;Bravery;2;
+33;Composure;2;
+34;Concentration;2;
+35;Decisions;2;
+36;Determination;2;
+37;Flair;2;
+38;Leadership;2;
+39;Off The Ball;2;
+40;Positioning;2;
+41;Teamwork;2;
+42;Vision;2;
+43;Workrate;2;
+44;Consistency;2;
+45;Dirtiness;2;
+46;Versatility;2;
+47;Ambition;2;
+48;Loyalty;2;
+49;Pressure;2;
+50;Professional;2;
+51;Acceleration;3;
+52;Agility;3;
+53;Balance;3;
+54;Jumping;3;
+55;Natural Fitness;3;
+56;Pace;3;
+57;Stamina;3;
+58;Strength;3;
+59;Adaptability;2;

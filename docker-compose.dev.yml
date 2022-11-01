@@ -1,0 +1,15 @@
+version: '3.9'
+
+services:
+
+  generation-nft:
+    image: pronochain/generation-nft-dev
+    build:
+      target: dev
+    volumes:
+      - .:/src
+
+  car-api:
+    image: pronochain/car-api-dev
+    build:
+      target: dev

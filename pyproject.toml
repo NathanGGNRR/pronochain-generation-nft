@@ -1,0 +1,5 @@
+[tool.vulture]
+paths = ["app/generation_nft"]
+exclude = ["*_test.py", "test_*.py", "tests/"]
+ignore_decorators = ["@app"]
+min_confidence = 80

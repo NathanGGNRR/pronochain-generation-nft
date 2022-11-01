@@ -1,0 +1,16 @@
+version: '3.9'
+
+services:
+
+  generation-nft:
+    image: pronochain/generation-nft-prod
+    build:
+      target: prod
+    restart: on-failure:10
+    volumes:
+      - .:/src
+
+  car-api:
+    image: pronochain/car-api-prod
+    build:
+      target: prod

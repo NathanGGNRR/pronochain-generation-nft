@@ -1,0 +1,40 @@
+version: '3.9'
+
+services:
+
+  generation-nft:
+    image: pronochain/generation-nft
+    build:
+      context: .
+      dockerfile: ./dockerfiles/Dockerfile.generationnft
+    ports:
+      - '${API_PORT:-8000}:8000'
+    container_name: generation_nft
+    depends_on:
+      - postgresql
+
+  postgresql:
+    image: postgres:14.0
+    container_name: postgresql
+    ports:
+      - '${POSTGRES_PORT:-5436}:5432'
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-postgres}
+      POSTGRES_DB: ${POSTGRES_DB:-generation-nft}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-postgres}
+    volumes:
+      - postgres14:/var/lib/posgresql/data
+
+  car-api:
+    image: pronochain/car-api
+    build:
+      context: .
+      dockerfile: ./dockerfiles/Dockerfile.carapi
+    volumes:
+      - ./car-api/:/src
+    ports:
+      - '${CAR_API_PORT:-8080}:8080'
+    container_name: car_api
+
+volumes:
+  postgres14:

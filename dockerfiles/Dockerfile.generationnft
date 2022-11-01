@@ -1,0 +1,63 @@
+FROM python:3.9 AS base
+
+EXPOSE 8000
+
+ENV PYTHONPATH=/src
+ENV PYTHONDONTWRITEBYTECODE 1
+ENV PYTHONUNBUFFERED 1
+
+RUN apt-get update
+RUN apt-get install -y \
+ffmpeg \
+libsm6 \
+libxext6 \
+qtbase5-dev \
+qtchooser \
+qt5-qmake \
+qtbase5-dev-tools \
+wget \
+build-essential \
+cmake \
+git \
+unzip \
+pkg-config \
+python-dev \
+libopencv-dev \
+libjpeg-dev \
+libpng-dev \
+libtiff-dev \
+libgtk2.0-dev \
+python3-numpy \
+python3-pycurl \
+libatlas-base-dev \
+gfortran \
+webp \
+python3-opencv \
+libvtk6-dev \
+zlib1g-dev
+
+FROM base AS dev
+
+WORKDIR /src
+COPY . .
+
+RUN pip install --upgrade pip
+RUN pip install -r requirements.txt
+
+RUN pip install -e .
+
+ENTRYPOINT [ "python", "app/launch.py", "-d" ]
+
+
+FROM base AS prod
+
+WORKDIR /src
+COPY . .
+
+RUN pip install --upgrade pip
+RUN pip install -r requirements.txt
+
+RUN pip install .
+RUN git init . && pre-commit install
+
+ENTRYPOINT [ "python", "app/launch.py" ]

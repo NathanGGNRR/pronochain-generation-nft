@@ -1,0 +1,2100 @@
+﻿code;name;country
+1;Pro League A;Inconnu
+2;Pro League B;Belgium
+6;3F Superliga;Denmark
+7;NordicBet Liga;Denmark
+8;2. Division;Denmark
+11;Premier Division;United Kingdom
+12;Sky Bet Championship;United Kingdom
+13;Sky Bet League One;United Kingdom
+14;Sky Bet League Two;United Kingdom
+16;Ligue 1 Conforama;France
+17;Domino's Ligue 2;France
+18;National;France
+19;National 2 - A;France
+20;Regional Divisions;France
+22;Bundesliga;Germany
+23;Bundesliga 2;Germany
+26;Regional Div. North;Germany
+27;Regional Div. Southwest;Germany
+29;Eredivisie;Netherlands
+30;Keuken Kampioen Divisie;Netherlands
+32;Serie A;Italy
+33;Serie B;Italy
+40;MLS;United States
+45;Ladbrokes Premiership;United Kingdom
+46;Ladbrokes Championship;United Kingdom
+47;Ladbrokes League 1;United Kingdom
+48;Ladbrokes League 2;United Kingdom
+50;Premier Division;Sweden
+52;First Division Elite;Sweden
+53;Second Division EG;Sweden
+54;Second Division N;Sweden
+55;Second Division SS;Sweden
+56;Second Division NG;Sweden
+57;Second Division NS;Sweden
+58;Second Division WG;Sweden
+60;Premier League;Portugal
+61;Second League;Portugal
+67;First Division;Spain
+68;Second Division;Spain
+69;Second Division B1;Spain
+70;Second Division B2;Spain
+71;Second Division B3;Spain
+72;Second Division B4;Spain
+102421;Premier Division;Argentina
+102422;Second Division;Argentina
+102423;First Division;Brazil
+102428;Nihon-League 1;Japan
+107191;Second Division;Brazil
+107192;Third Division;Brazil
+107256;JFL;Japan
+108508;Metropolitan Zone;Argentina
+108509;Interior Zone;Argentina
+109201;Vanarama National;United Kingdom
+114506;Lower Division;Sweden
+115064;Regional Division;Spain
+115424;Nihon-League 2;Japan
+129120;Premier League;Finland
+129123;Lower Division;Finland
+129131;First Division;Finland
+129372;Premier Division;Ireland
+129373;First Division;Ireland
+129377;Leinster Premier Division;Ireland
+129387;Ulster Senior League;Ireland
+129388;Munster Premier Division;Ireland
+129558;PKO BP Ekstraklasa;Poland
+129559;First Division;Poland
+129645;First League;Croatia
+129646;Second League;Croatia
+129647;Lower League;Croatia
+129650;Super League;Greece
+129651;Super League 2;Greece
+129755;Third League North;Croatia
+129756;Third League South;Croatia
+129757;Third League East;Croatia
+129758;Third League West;Croatia
+129759;Third League Central;Croatia
+129985;Hyundai A-League;Australia
+130023;Danske Bank Premier;United Kingdom
+130024;Bluefin Sport CH;United Kingdom
+130025;Amateur Premier Division;United Kingdom
+130185;NPL NSW;Australia
+130186;BPL;Australia
+130188;NPL Victoria;Australia
+130189;NPL WA;Australia
+130286;Super League;Turkey
+130486;Premier League;Russia
+130487;First Division;Russia
+130488;Second Division - West;Russia
+130489;Second Division - Central;Russia
+130490;Second Division - South;Russia
+130491;Second Division - East;Russia
+130494;Lower Division;Russia
+130672;JD Cymru Premier;United Kingdom
+130673;Welsh Lower Division;United Kingdom
+130931;Super League;China
+130933;Non-League;China
+131126;First Division;China
+131234;South African Premiership;South Africa
+131235;National First Division;South Africa
+131287;First Division;Czech Republic
+131288;Second Division;Czech Republic
+132321;SuperLeague;Serbia
+132323;Lower League;Serbia
+135973;First Division;Mexico
+135974;Promotion League;Mexico
+136041;Third Division CFL A;Czech Republic
+136042;Third Division MSFL;Czech Republic
+136043;Fourth Division A;Czech Republic
+136044;Fourth Division B;Czech Republic
+136045;Fourth Division C;Czech Republic
+136046;Fourth Division D;Czech Republic
+136047;Fourth Division E;Czech Republic
+136048;Lower Division;Czech Republic
+136407;K LEAGUE 1;South Korea
+136412;U-League;South Korea
+136414;High School League;South Korea
+136543;Premier Division;Austria
+136544;First Division;Austria
+136546;Regional Division East;Austria
+137889;Super League;Switzerland
+137890;Challenge League;Switzerland
+137891;Lower Division;Switzerland
+145435;4th Division-Podmoskovje;Russia
+147023;Bluefin Sport PIL;United Kingdom
+150913;Liga II;Romania
+152045;Division II;Hungary
+162504;Second Division;Poland
+164021;Great Lakes Division;United States
+164022;Heartland Division;United States
+164023;Mid Atlantic Division;United States
+164024;Northeast Division;United States
+164025;Mid South Division;United States
+164026;Southeast Division;United States
+164027;Southwest Division;United States
+164028;Northwest Division;Canada
+225495;Bosman Tournament;Norway
+353078;Welsh League Div 1;United Kingdom
+418021;Mid Ulster Intermediate A;United Kingdom
+419047;Ballymena Premier;United Kingdom
+432083;NPL ACT;Australia
+432090;Tas Northern Championship;Australia
+432091;Tas Southern Championship;Australia
+432262;Premiership;New Zealand
+432263;Canterbury Premier;New Zealand
+432264;Capital Premier;New Zealand
+432265;Capital Division 1;New Zealand
+432266;NRFL Premier;New Zealand
+463479;1. League;Turkey
+463485;2. League White;Turkey
+463486;2. League Red;Turkey
+553378;Leinster First Division;Ireland
+612799;Fourth Division;Sweden
+690094;Football League;Greece
+692430;First Division;Cyprus
+692431;Second Division;Cyprus
+692432;Lower Division;Cyprus
+776278;U18 Ch'ship;Japan
+788824;Hokkaido League;Japan
+788825;Tohoku League 1;Japan
+788826;Kanto League 1;Japan
+788827;Hokushin'etsu League 1;Japan
+788828;Tokai League 1;Japan
+788829;Kansai League 1;Japan
+788830;Chugoku League;Japan
+788831;Shikoku League;Japan
+788832;Kyushu League;Japan
+788833;Kanto League 2;Japan
+788834;Kansai League 2;Japan
+788837;Tokai League 2;Japan
+788839;Tohoku League 2 North;Japan
+790071;Hokushin'etsu League 2;Japan
+791180;N-League 3;Japan
+862765;Zaterdag A;Netherlands
+862766;Zaterdag B;Netherlands
+862768;Zondag A;Netherlands
+862769;Zondag B;Netherlands
+914522;National 2 - B;France
+914523;National 2 - C;France
+914524;National 2 - D;France
+932444;Lower Division;Denmark
+981781;USASA;United States
+1002872;Second Division North;China
+1002873;Second Division South;China
+1004911;Island-wide League;Singapore
+1013060;Lower Division;Malaysia
+1018789;Pro League;Iran
+1018790;First Division;Iran
+1018791;Lower Division;Iran
+1039313;Premier League;Bahrain
+1039314;First Division;Bahrain
+1300021;Top League;Comoros
+1300397;Premier Division;Norway
+1300398;First Division;Norway
+1300603;Second Division Group 1;Norway
+1300604;Second Division Group 2;Norway
+1301432;Lower Leagues;Austria
+1302039;National Youth League;Australia
+1400399;Italian Lower Division;Italy
+1400400;Serie D Grp. A;Italy
+1400401;Serie D Grp. B;Italy
+1400402;Serie D Grp. C;Italy
+1400403;Serie D Grp. D;Italy
+1400404;Serie D Grp. E;Italy
+1400405;Serie D Grp. F;Italy
+1400406;Serie D Grp. G;Italy
+1400407;Serie D Grp. H;Italy
+1400408;Serie D Grp. I;Italy
+1900171;CSL;Canada
+1900708;Western Premier;United Kingdom
+1900712;Amateur Division 1A;United Kingdom
+1900713;Amateur Division 1B;United Kingdom
+2300046;A League;Lithuania
+2300047;1 League;Lithuania
+2300049;Lower Leagues;Lithuania
+2300050;Premier League;Malta
+2300051;First Division;Malta
+2300052;Lower Divisions;Malta
+5103714;Isthmian Premier;United Kingdom
+5103716;Northern Premier League;United Kingdom
+5111904;SL - Division One South;United Kingdom
+5111905;SL - Division One Central;United Kingdom
+5123054;Vanarama North;United Kingdom
+5123055;Vanarama South;United Kingdom
+5209094;Scottish Amateurs;United Kingdom
+5250792;First Division;Chile
+5250793;First Division B;Chile
+5250794;Third Division A;Chile
+5260948;First Division;Colombia
+5260950;Second Division;Colombia
+5290551;First Division;Peru
+5290552;Copa Peru;Peru
+5290553;Second Division;Peru
+5314301;Premier League;Ukraine
+5314302;First League;Ukraine
+5314303;Second League - Group A;Ukraine
+5314304;Second League - Group B;Ukraine
+5314306;Lower Division;Ukraine
+5340000;National Division;Luxembourg
+5340022;Promotion Division;Luxembourg
+5395850;Premier League;Singapore
+5395852;Lower Division;Singapore
+5512770;First Division;Uruguay
+5512771;Second Division;Uruguay
+5512772;Third Division;Uruguay
+5607687;Regional Division Central;Austria
+5624449;Premier League;Hong Kong
+5624450;First Division;Hong Kong
+5624525;National Football League;India
+5624536;Super League;Malaysia
+5624537;Premier League;Malaysia
+5624920;Thai League;Thailand
+5627655;Amateur League;China
+5629952;Premier League;Lebanon
+5630003;Lower Division;Lebanon
+5630004;Premier League;Pakistan
+5630062;Premier League;Bangladesh
+5630248;First Division;Macao
+5630266;Lower Division;Macao
+5630268;Second Division;Macao
+5630275;Super League;Brunei Darussalam
+5631613;Second Division;Lebanon
+5632126;Stars League;Qatar
+5632158;Q-League;Qatar
+5632916;Soccer League;Guam
+5633774;Premier League;Sri Lanka
+5634047;Lower Division;Sri Lanka
+5634246;Premier League;Laos
+5635022;Premier League;Syria
+5635278;Pro-League;Jordan
+5635282;First Division;Jordan
+5635283;Lower Division;Jordan
+5635469;NFL Division 2;Singapore
+5637986;Thai League 2;Thailand
+5638034;Lower Division;Maldives
+5638083;Higher League;Turkmenistan
+5638107;Lower Division;Turkmenistan
+5707678;N-League;South Korea
+5724964;First League Group 1;Switzerland
+5724965;First League Group 2;Switzerland
+5724966;First League Group 3;Liechtenstein
+5745020;First League;Montenegro
+5754884;Second League Vojvodina;Serbia
+5754885;Second League Belgrade;Serbia
+5754888;Second League;Montenegro
+5770142;Second League West;Serbia
+5770143;Second League East;Serbia
+5776050;First League;Serbia
+6400089;Third Division MG;Sweden
+6400090;Third Division MN;Sweden
+6400091;Third Division NN;Sweden
+6400092;Third Division NS;Sweden
+6400093;Third Division NWG;Sweden
+6400094;Third Division NEG;Sweden
+6400095;Third Division SG;Sweden
+6400096;Third Division SN;Sweden
+6400097;Third Division SWG;Sweden
+6400098;Third Division SEG;Sweden
+6400099;Third Division WS;Sweden
+6400100;Third Division SS;Sweden
+7400001;Lower Division;Hong Kong
+7400579;Second Division;Hong Kong
+7460105;Lower Division;Thailand
+7483354;Highest League;Belarus
+7483366;First League;Belarus
+7483369;Second League;Belarus
+7483371;Lower League;Belarus
+7500000;First League;Bulgaria
+7500118;Second League;Bulgaria
+7500138;Third SE League;Bulgaria
+7500139;Third SW League;Bulgaria
+7500140;Third NE League;Bulgaria
+7500141;Third NW League;Bulgaria
+7500142;Lower Division;Bulgaria
+7520391;Division I;Hungary
+7520394;Lower Division;Hungary
+7540024;Casa Liga I;Romania
+7540206;Liga III Seria 1;Romania
+7540207;Liga IV Bucuresti;Romania
+7560276;First Division;Slovakia
+7560277;Second Division;Slovakia
+7560278;Lower Division;Slovakia
+7580000;First League;Slovenia
+7580001;Second League;Slovenia
+7581079;Third League West;Slovenia
+7640505;Second Division;India
+7681558;Premier League;Estonia
+7681559;First League;Estonia
+7801114;NFL Division 1;Singapore
+7840132;Premier Division;Iceland
+7840133;First Division;Iceland
+7841964;Lower Division;Iceland
+7860000;Premier League;Israel
+7860001;National League;Israel
+7880000;Pro League;United Arab Emirates
+7880028;First Division;United Arab Emirates
+7900423;Ikkinchi Liga;Uzbekistan
+7900424;Lower Liga;Uzbekistan
+7920263;Pro League;Saudi Arabia
+7920264;First Division;Saudi Arabia
+7920511;Lower Division;Saudi Arabia
+8050901;Third Division - GR;Russia
+8050902;Third Division - NW;Russia
+8050903;Third Division - South;Russia
+8050904;Third Division - Volga;Russia
+8050905;Third Division - Far East;Russia
+8050906;Third Division - Siberia;Russia
+8050907;Third Division - Ural;Russia
+8050908;Third Division - Chernoz.;Russia
+8050940;Third Division - Moscow;Russia
+8055759;Second Div. - Ural/Volga;Russia
+8074978;4th Division - Siberia;Russia
+8114887;First Division South;Sweden
+8114888;First Division North;Sweden
+8154769;Brabant Provincial (Wal);Belgium
+8154770;Antwerp Provincial;Belgium
+8154771;W-Flanders Provincial;Belgium
+8154772;E-Flanders Division;Belgium
+8154773;Hainaut Provincial;Belgium
+8154774;Namur Provincial;Belgium
+8154775;Luxembourg Provincial;Belgium
+8154776;Limburg Provincial;Belgium
+8154777;Liège Provincial;Belgium
+8154824;First Division;Belgium
+8300358;Premier League;Faroe Islands
+8300362;First Division;Faroe Islands
+8300363;Second Division;Faroe Islands
+8300364;Third Division;Faroe Islands
+8350942;Superleague;Albania
+8351378;Lower Category;Albania
+8401070;First League;North Macedonia
+8401071;Lower Leagues;North Macedonia
+8401073;Premier League;Bosnia And Herzegovina
+8401074;Lower League;Bosnia And Herzegovina
+8403697;Higher League;Latvia
+8403699;Lower Leagues;Latvia
+8403797;First League;Latvia
+8407360;First League RS;Bosnia And Herzegovina
+8407370;First League FBiH;Bosnia And Herzegovina
+8457145;Super League;New Caledonia
+8457146;S-League;Solomon Islands
+8457147;First Division;French Polynesia
+8457148;Premier League;Samoa
+8457149;Premier League;Fiji
+8459267;Port Vila Premier;Vanuatu
+8459277;TFA National League;Tonga
+8459333;Division 1;American Samoa
+8550000;V.League 1;Vietnam
+8550001;V.League 2;Vietnam
+8550028;Second Division A;Vietnam
+8550030;Second Division B;Vietnam
+8550034;Lower Division;Vietnam
+8700002;Baden-Württemberg;Germany
+8700003;Hessia;Germany
+8700004;RP/Saar;Germany
+8700005;Westphalia;Germany
+8700007;North East-South;Germany
+8700008;North East-North;Germany
+8700660;German Lower Division;Germany
+8826787;Metropolitan Zone;Peru
+11024371;First Category - Group A;Albania
+11024374;First Category - Group B;Albania
+12015290;League 1;Algeria
+12015393;Premier League;Egypt
+12016011;Premier League;Nigeria
+12019164;League 1;Tunisia
+12019395;Premier Division;Morocco
+12031135;League 2;Algeria
+12034515;Girabola;Angola
+12040173;DNA - Est;Algeria
+12040174;DNA Ouest;Algeria
+12040175;DNA - Centre;Algeria
+12058772;First Division;Morocco
+12065937;League 2A;Tunisia
+12065938;League 2B;Tunisia
+12066414;Lower Leagues;Morocco
+12076263;Premier Division - Pool A;Mali
+12076264;Premier Division - Pool B;Mali
+12078428;Second Division;Senegal
+12081971;Second Division - Pool A;Côte D'Ivoire
+12081972;Second Division - Pool B;Côte D'Ivoire
+12084359;Kenyan Second Division;Kenya
+12087549;Second Division - Pool A;Burkina Faso
+12087550;Second Division - Pool B;Burkina Faso
+13109920;Lower Division;Angola
+13109924;Premier Division;Ghana
+13109925;Lower Division;Ghana
+13109926;Premier Division;Côte D'Ivoire
+13109927;Lower Division;Côte D'Ivoire
+13110053;Lower Division;Nigeria
+13117331;League 3;Tunisia
+13135082;Premier League;Zambia
+13135374;First Division;Zambia
+13135375;Zambian Lower Division;Zambia
+13147149;Lower Division;Egypt
+13167217;Third Division;Egypt
+13170555;Premier League;Liberia
+13170556;Liberian Lower Division;Liberia
+13171646;Second Division;Liberia
+13172336;First Division;Cameroon
+13172337;Second Division;Cameroon
+13172340;Lower Leagues;Mali
+13172358;Lower Divisions;Cameroon
+13190228;Premier Division;Zimbabwe
+13190229;Lower Division;Zimbabwe
+13191166;Premier Division;Mozambique
+13191167;Mozambican Lower Division;Mozambique
+13191378;First Division;Congo
+13191379;Lower Division;Congo
+13191657;First Division;Senegal
+13191658;Lower Division;Senegal
+13194866;First Division - Zone 1;Zambia
+13194867;First Division - Zone 2;Zambia
+13194868;First Division - Zone 3;Zambia
+13194869;First Division - Zone 4;Zambia
+13197000;Second Division - Group 1;Egypt
+13197001;Second Division - Group 2;Egypt
+13197002;Second Division - Group 3;Egypt
+13208974;First Division;Libya
+13208975;Libyan Lower Division;Libya
+13211602;Second Division;Nigeria
+13211624;Premier Division;Benin
+13211626;Lower Divisions;Benin
+13211628;Premier Division;Guinea Bissau
+13211629;Lower Divisions;Ethiopia
+13211630;Premier Division;Gabon
+13211632;Lower Divisions;Gabon
+13211633;Premier Division;Gambia
+13211635;Lower Divisions;Gambia
+13211636;Premier Division;Guinea
+13211638;Lower Divisions;Guinea
+13211639;Premier Division;Kenya
+13211641;Lower Divisions;Kenya
+13211643;Premier Division;Lesotho
+13211645;Lower Divisions;Lesotho
+13211649;Premier Division;Madagascar
+13211651;Lower Divisions;Madagascar
+13211652;Premier Division;Malawi
+13211654;Lower Divisions;Malawi
+13211655;Premier Division;Mauritania
+13211657;Lower Divisions;Guinea Bissau
+13211659;Premier Division;Botswana
+13211661;Lower Divisions;Botswana
+13211662;Premier Division;Burkina Faso
+13211664;Lower Divisions;Burkina Faso
+13211665;Premier Division;Burundi
+13211667;Lower Divisions;Burundi
+13211670;Lower Divisions;Cabo Verde
+13211671;Premier Division;Central African Republic
+13211673;Lower Divisions;Central African Republic
+13211674;Premier Division;Chad
+13211677;Premier Division;Djibouti
+13211679;Lower Divisions;Djibouti
+13211681;Premier Division;Congo (Democratic Republic Of The)
+13211683;Lower Divisions;Congo (Democratic Republic Of The)
+13211686;Lower Divisions;Equatorial Guinea
+13211687;Premier Division;Eritrea
+13211690;Premier Division;Ethiopia
+13211693;Lower Divisions;Mauritania
+13211694;Premier Division;Mauritius
+13211696;Lower Divisions;Mauritius
+13211697;Premier Division;Namibia
+13211699;Lower Divisions;Namibia
+13211700;Premier Division;Niger
+13211702;Lower Divisions;Niger
+13211703;Premier Division;Rwanda
+13211705;Lower Divisions;Rwanda
+13211708;Lower Divisions;Sao Tome and Principe
+13211709;Premier Division;Seychelles
+13211711;Lower Divisions;Seychelles
+13211712;Premier Division;Sierra Leone
+13211714;Lower Divisions;Sierra Leone
+13211715;Somali Premier Division;Somalia
+13211717;Lower Divisions;Somalia
+13211718;Premier Division;South Sudan
+13211720;Lower Divisions;South Sudan
+13211721;Premier Division;Eswatini
+13211723;Lower Divisions;Eswatini
+13211724;Premier Division;Tanzania
+13211726;Lower Divisions;Tanzania
+13211727;Premier Division;Togo
+13211729;Lower Divisions;Togo
+13211730;Premier Division;Tanzania
+13211732;Lower Divisions;Tanzania
+13211840;Second Division;Equatorial Guinea
+13212430;Boa Vista Premier;Cabo Verde
+13212431;Brava Premier;Cabo Verde
+13212432;Fogo Premier;Cabo Verde
+13212433;Maio Premier;Cabo Verde
+13212434;Sal Premier;Cabo Verde
+13212435;Santiago (S) Premier;Cabo Verde
+13212436;Santiago (N) Premier;Cabo Verde
+13212437;Santo Antão (S) Premier;Cabo Verde
+13212438;Santo Antão (N) Premier;Cabo Verde
+13212478;São Nicolau Premier;Cabo Verde
+13212479;São Vicente Premier;Cabo Verde
+13214091;São Tomé  Division 1;Sao Tome and Principe
+13214092;Príncipe Division 1;Sao Tome and Principe
+13219623;First Division - Zone 1;Ghana
+13219624;First Division - Zone 2;Ghana
+13219625;First Division - Zone 3;Ghana
+13220908;Sudanese Lower Division;Sudan
+13220909;Tunisian Lower Division;Tunisia
+13220910;Lower Division;Algeria
+13221306;1. Insular;Equatorial Guinea
+13221307;1. Continental;Equatorial Guinea
+13228126;Second Division;Morocco
+14037258;Fourth Division AFA;Argentina
+14037261;Fourth Division non AFA;Argentina
+14037262;Fifth Division AFA;Argentina
+14037263;Fifth Division non AFA;Argentina
+15004635;Lower Leagues;Australia
+15007722;NPL - NNSW;Australia
+15020175;NPL - Victoria 2;Australia
+15020803;NPL 2 NSW;Australia
+15022116;Vic State League 1 NW;Australia
+15022468;Vic State League 1SE;Australia
+15025121;WA State League Div 1;Australia
+15025122;WA State League Div 2;Australia
+15025400;Premier League;Australia
+15038565;NPL Tasmania;Australia
+15041741;Premier League;Australia
+15041771;NPL Queensland;Australia
+15042155;Northen League One;Australia
+15044448;GNE Regional PL;Australia
+15045003;NPL South Australia;Australia
+15045004;SA - State League 1;Australia
+15045005;Capital League 1;Australia
+15045546;NPL - NSW 3;Australia
+15047997;Premier League;Australia
+15052001;Vic SL 2NW;Australia
+15052002;Vic SL 2 SE;Australia
+15052003;Vic SL 3NW;Australia
+15052004;VIC SL 3SE;Australia
+15053067;SC Premier League;Australia
+15053086;League 2;Australia
+15053095;League 3;Australia
+15053102;FNQ Premier League;Australia
+15053174;Three Cities League;Australia
+15053810;NQ Premier League;Australia
+15058650;Soccer League;Australia
+15060171;AWFA League;Australia
+15060240;Bendigo Amateur SL;Australia
+15063498;Vic State League 4 North;Australia
+15063499;Vic State League 4 West;Australia
+15063500;Vic State League 4 South;Australia
+15063501;Vic State League 4 East;Australia
+15063503;Vic State League 5 North;Australia
+15063504;Vic State League 5 West;Australia
+15063505;Vic State League 5 South;Australia
+15063506;Vic State League 5 East;Australia
+15063628;Limestone Coast FA;Australia
+15064449;WA Amateur Premier Div.;Australia
+15066129;District League;Australia
+15070320;Premier League;Australia
+15073100;Gold Coast 1;Australia
+15077565;SA - State League 2;Australia
+15083847;Premier League;Australia
+15088302;NPL 2 ACT;Australia
+15090908;NPL - Victoria 3;Australia
+15090961;NPL - NSW 4;Australia
+16000658;Vorarlberg-Liga;Austria
+16000659;Steierische LL;Austria
+16000660;Kärntner Liga;Austria
+16000661;Wiener Stadtliga;Austria
+16000662;1. NÖN Landesliga;Austria
+16000663;Upper Austria LL;Austria
+16000665;Tiroler Landesliga;Austria
+16000666;Burgenlandliga;Austria
+16036167;2.NÖ Landesliga West;Austria
+16036168;2.Landesliga Ost;Austria
+16036172;II. Liga North (B);Austria
+16036173;II. Liga Central (B);Austria
+16036174;II. Liga South (B);Austria
+16036176;Oberliga Central West;Austria
+16036177;Oberliga South;Austria
+16036178;Oberliga North;Austria
+16036185;Unterliga West;Austria
+16036186;Unterliga East;Austria
+16036196;Landesliga East (OÖ);Austria
+16036197;Landesliga West (OÖ);Austria
+16036202;Landesliga East (T);Austria
+16036203;Landesliga West (T);Austria
+16036206;Landesliga Vorarlberg;Austria
+16053609;1.Klasse North (S);Austria
+16053612;1.Klasse South (S);Austria
+16057917;2.Landesliga North (S);Austria
+16057918;2.Landesliga South (S);Austria
+16057919;Salzburger Liga;Austria
+16057920;1.Landesliga Salzburg;Austria
+16068289;Gebietsliga S/SE;Austria
+16068290;Gebietsliga West;Austria
+16068291;Gebietsliga NW/WV;Austria
+16068292;Gebietsliga N/NW;Austria
+16068293;1. Klasse North (NÖ);Austria
+16068294;1. Klasse Northwest (NÖ);Austria
+16068295;1. Klasse NW/C (NÖ);Austria
+16068296;1. Klasse East (NÖ);Austria
+16068297;1. Klasse South (NÖ);Austria
+16068298;1. Klasse West (NÖ);Austria
+16068299;1. Klasse West/Cent. (NÖ);Austria
+16068300;1.Klasse Waldviertel (NÖ);Austria
+16068301;2. Klasse Alpenvorland;Austria
+16068302;2. Klasse Donau (NÖ);Austria
+16068305;2. Klasse East;Austria
+16068306;2. Klasse East - Central;Austria
+16068309;2. Klasse Steinfeld;Austria
+16068310;2. Klasse Traisental;Austria
+16068311;2. Klasse Triestingtal;Austria
+16068312;2. Klasse Wachau (NÖ);Austria
+16068313;2. Klasse Wechsel (NÖ);Austria
+16068314;2. Klasse Waldviertel S;Austria
+16068315;2. Klasse Waldviertel TT;Austria
+16068318;2. Klasse Ybbstal (NÖ);Austria
+16068319;2. Klasse Yspertal (NÖ);Austria
+16068322;Bezirksliga North (OÖ);Austria
+16068323;Bezirksliga South (OÖ);Austria
+16068324;Bezirksliga West (OÖ);Austria
+16068325;Bezirksliga East (OÖ);Austria
+16068326;1. Liga Central (OÖ);Austria
+16068327;1. Liga Central/West (OÖ);Austria
+16068328;1. Liga North (OÖ);Austria
+16068329;1. Liga Northeast (OÖ);Austria
+16068330;1. Liga Northwest (OÖ);Austria
+16068331;1. Liga East (OÖ);Austria
+16068332;1. Liga South (OÖ);Austria
+16068333;1. Liga Southwest (OÖ);Austria
+16068334;2. Liga Central (OÖ);Austria
+16068335;2. Liga Central/East (OÖ);Austria
+16068336;2. Liga Central/West (OÖ);Austria
+16068337;2.Liga Central North;Austria
+16068338;2. Liga Northwest (OÖ);Austria
+16068339;2. Liga East (OÖ);Austria
+16068340;2. Liga South (OÖ);Austria
+16068342;2. Liga Southwest (OÖ);Austria
+16068343;2. Liga West (OÖ);Austria
+16068346;2. Klasse North A (S);Austria
+16068347;2. Klasse North B (S);Austria
+16068348;2. Klasse South (S);Austria
+16068349;2. Klasse Southwest (S);Austria
+16068350;Gebietsliga East (T);Austria
+16068351;Gebietsliga West (T);Austria
+16068352;Bezirksliga East (T);Austria
+16068353;Bezirksliga West (T);Austria
+16068354;1. Klasse East (T);Austria
+16068355;1. Klasse West (T);Austria
+16068356;2. Klasse East (T);Austria
+16068357;2. Klasse West (T);Austria
+16068358;1. Landesklasse (Vbg);Austria
+16068359;2. Landesklasse (Vbg);Austria
+16068360;3. Landesklasse (Vbg);Austria
+16068361;4. Landesklasse (Vbg);Austria
+16068362;5. Landesklasse Unterland;Austria
+16068363;1. Klasse A (K);Austria
+16068364;1. Klasse B (K);Austria
+16068365;1. Klasse C (K);Austria
+16068366;1. Klasse D (K);Austria
+16068367;2. Klasse A (Ktn);Austria
+16068368;2. Klasse b (Ktn);Austria
+16068369;2. Klasse C (Ktn);Austria
+16068370;2. Klasse D (Ktn);Austria
+16068371;Unterliga Central (St);Austria
+16068372;Unterliga West (St);Austria
+16068373;Unterliga South (St);Austria
+16068374;Unterliga East (St);Austria
+16068375;Unterliga North A (St);Austria
+16068376;Unterliga North B (St);Austria
+16068377;Gebietsliga Central (St);Austria
+16068378;Gebietsliga West (St);Austria
+16068379;Gebietsliga South (St);Austria
+16068380;Gebietsliga East (St);Austria
+16068381;Gebietsliga Enns (St);Austria
+16068382;Gebietsliga Mur (St);Austria
+16068383;Gebietsliga Mürz (St);Austria
+16068384;1. Klasse Central A (St);Austria
+16068385;1. Klasse Central B (St);Austria
+16068390;1. Klasse East A (St);Austria
+16068391;1. Klasse East B (St);Austria
+16068392;1. Klasse Enns (St);Austria
+16068393;1. Klasse Mur/Mürz A (St);Austria
+16068394;1. Klasse Mur/Mürz B (St);Austria
+16068395;1. Klasse North (B);Austria
+16068396;1. Klasse Central (B);Austria
+16068399;2. Klasse North (B);Austria
+16068400;2. Klasse Central (B);Austria
+16068401;2. Klasse South A (B);Austria
+16068402;2. Klasse South B (B);Austria
+16068419;Youth Academy League;Austria
+16069670;5. Landesklasse Oberland;Austria
+16069671;2. Liga North/East (OÖ);Austria
+16069672;2. Liga West/North (OÖ);Austria
+16082228;2. Klasse Weinviertel N;Austria
+16082229;2. Klasse Marchfeld (NÖ);Austria
+16089909;2. Klasse Weinviertel S;Austria
+16126204;2. Klasse Zillertal (T);Austria
+16126205;2. Klasse Central (T);Austria
+16129522;1. Klasse South (B);Austria
+16154765;2. Landesliga Wien;Austria
+16154861;Oberliga A (W);Austria
+16154862;Oberliga B (W);Austria
+16154863;1. Klasse A (W);Austria
+16154864;1. Klasse B (W);Austria
+16182815;Austrian 1. Klasse West;Austria
+16192449;Austrian Youth Teams;Austria
+16233996;NWL Vbg Gr.1;Austria
+16233997;NWL Vbg Gr.2;Austria
+16234004;Youth League OÖ;Austria
+16234008;Youth League NÖ;Austria
+16234197;Unterliga East Reserve;Austria
+16234207;1.Klasse A Reserve;Austria
+16234208;1. Klasse B Reserve;Austria
+16234291;Youth League Tirol;Austria
+16234668;Future League;Austria
+16234717;Youth Competition;Austria
+16234739;Reserve League Tirol G3;Austria
+16235036;1B Central (ST);Austria
+16235037;1B GL East (ST);Austria
+16251692;2. Klasse Pulkau/Schmida;Austria
+16277559;1. Klasse South (ST);Austria
+16302523;Eliteleagu Vorarlberg;Austria
+16302524;Regional Division Tyrol;Austria
+16302525;Regional Div. Salzburg;Austria
+16325006;2. Klasse (W);Austria
+16325692;Bezirksklasse Weinviertel;Austria
+18097860;Second Division A;Belgium
+18097862;Second Division B;Belgium
+18097863;Second Division C;Belgium
+18097864;Third Division A;Belgium
+18097865;Third Division B;Belgium
+18097866;Third Division C;Belgium
+18097867;Third Division D;Belgium
+18111376;Brabant Provincial (Fla);Belgium
+19102111;Lower Division;Brazil
+19127222;Fourth Division;Brazil
+19166136;Lower Division;Venezuela
+19166141;Lower Division;Bolivia
+19166492;National League;Cuba
+19166493;Lower Division;Cuba
+20016870;South Atlantic Division;United States
+20017135;SPSL;United States
+20017552;Premier Division;Antigua and Barbuda
+20017554;First Division;Antigua and Barbuda
+20031727;Mountain Division;United States
+20031797;Northeast Region;United States
+20031798;South Region;United States
+20031799;Midwest Region;United States
+20031800;West Region;United States
+20032845;American Soccer League;United States
+20033731;Western Conference;United States
+20033732;Eastern Conference;United States
+20035150;PLSQ;Canada
+20037253;Ontario Soccer League;Canada
+20047465;Deep South;United States
+20047508;USSL Division Two;United States
+20500261;League1 Ontario;Canada
+20502998;Canadian Premier League;Canada
+22014984;"A"" OFG""";Bulgaria
+22087062;"B"" Regional Groups""";Bulgaria
+23036284;A-Division;Nepal
+23038303;Premier League;Iraq
+23063354;Premier League;Kuwait
+23071760;Pro League;Oman
+23077978;Thai League 4 - NE;Thailand
+23077979;Thai League 4 - North;Thailand
+23077981;Thai League 4 - Bangkok;Thailand
+23077982;Thai League 4 - South;Thailand
+23078220;Third Division;Macao
+23078275;First Division;Kuwait
+23078279;Lower Division;Pakistan
+23084471;C-League;Cambodia
+23084472;Lower Division;Cambodia
+23086526;Premier League;Brunei Darussalam
+23086527;Lower Division;Brunei Darussalam
+23090572;Lower Division;Bangladesh
+23090671;Second Division A;Iran
+23090672;Second Division B;Iran
+23090710;Lower Division;Syria
+23090715;Lower Division;Oman
+23090849;Lower Division;Qatar
+23090900;First Division;Yemen
+23090901;Lower Division;Yemen
+23090919;Division A;Northern Mariana Islands
+23090922;National League;Myanmar
+23090960;Lower Division;Myanmar
+23090971;Premier League;Mongolia
+23090998;Lower Division;Iraq
+23091052;West Bank Premier;Palestine
+23091053;West Bank Lower;Palestine
+23093045;Dhivehi League;Maldives
+23099991;Super League;Bhutan
+23100525;Premier League;North Korea
+23103791;Lower Division;Bhutan
+23106020;Premier League;Afghanistan
+23110307;Qingdao SL;China
+23110313;Shenzhen SL;China
+23110315;Guangdong SL;China
+23110317;Guangxi SL;China
+23110319;Hunan SL;China
+23110322;Chengdu SL;China
+23110331;Tianjin SL;China
+23110333;Dalian SL;China
+23110336;Qilu SL;China
+23114755;Lower Division;Nepal
+23151830;Lower Division;Afghanistan
+23151831;Lower Division;Mongolia
+23151833;Lower Division;East Timor
+23151834;Lower Division;Philippines
+23155549;Second Division Grp A;Saudi Arabia
+23155550;Second Division Grp B;Saudi Arabia
+23159013;Gaza Premier;Palestine
+23159015;Gaza Lower;Palestine
+23159079;Lower Division;United Arab Emirates
+23159508;Lower Division;Laos
+23160177;Third Division A;Vietnam
+23160178;Third Division B;Vietnam
+23160191;Second Division A;Yemen
+23160192;Second Division B;Yemen
+23161445;Lower Division;Northern Mariana Islands
+23162680;B-Division;Nepal
+23163225;Lower Division;Taiwan
+23179126;Third Division;Hong Kong
+23184338;Second League;Cambodia
+23184385;Ch'ship League;Bangladesh
+23191444;Third Division;Lebanon
+23193285;National League 2;Myanmar
+23194524;Lower Division;Guam
+23194681;Division B;Northern Mariana Islands
+23195083;Dzongkhag League;Bhutan
+23199309;Second Division;Maldives
+23209356;Second Division;French Polynesia
+23209357;Lower Division;French Polynesia
+23209360;Lower Division;American Samoa
+23209361;Round Cup;Cook Islands
+23209363;Lower Division;Fiji
+23209366;National Ch'ship;Kiribati
+23209367;Lower Division;Kiribati
+23209368;Lower Division;New Caledonia
+23209371;Lower Division;Papua New Guinea
+23209372;Lower Division;Samoa
+23209374;Lower Division;Solomon Islands
+23209375;Lower Division;Tonga
+23209377;A-Division;Tuvalu
+23209385;Lower Division;Vanuatu
+23209398;Division 2;American Samoa
+23209503;Lower Division;New Zealand
+23210246;Mainland Division 1;New Zealand
+23210915;Premier League;Bhutan
+23226118;Lower Division;Kuwait
+23237487;First Division Grp A;Oman
+23237488;First Division Grp B;Oman
+23340293;National League;Nepal
+23354788;Thai League 4 - East;Thailand
+23354789;Thai League 4 - West;Thailand
+23354822;Amateur - Central;Thailand
+23354823;Amateur - East;Thailand
+23354824;Amateur - NE;Thailand
+23354825;Amateur - North;Thailand
+23354826;Amateur - South;Thailand
+23356203;Junior Division;Macao
+23370720;Guangxi Lower;China
+23388435;Thai League 3 - Upper;Thailand
+23388436;Thai League 3 - Lower;Thailand
+23396186;Premier Division;East Timor
+23396187;Second Division;East Timor
+23397138;Premier League;Taiwan
+23402297;Non-League;Hong Kong
+23404341;Youth Cup;Malaysia
+23416509;First League;Mongolia
+23446877;Lower Division;North Korea
+23448646;Shenzhen Lower;China
+23481676;U19 Super League B;China
+23482327;U21 League;Myanmar
+23482485;Second Division Grp A;Syria
+23482486;Second Division Grp B;Syria
+23482487;Second Division Grp C;Syria
+23482488;Second Division Grp D;Syria
+23489925;Premier League;Philippines
+23493567;M3 League;Malaysia
+24000258;ZNL - Greater Zagreb;Croatia
+24000259;ZNL - Krapina;Croatia
+24000260;ZNL - Sisak;Croatia
+24000261;ZNL - Karlovac;Croatia
+24000262;ZNL - Varazdin;Croatia
+24000263;ZNL - Koprivnica;Croatia
+24000264;ZNL - Bjelovar;Croatia
+24000265;ZNL - Rijeka;Croatia
+24000266;ZNL - Gosipic;Croatia
+24000267;ZNL - Virovitica;Croatia
+24000268;ZNL - Pozega;Croatia
+24000269;ZNL - Slavonski Brod;Croatia
+24000270;ZNL - Zadar;Croatia
+24000271;ZNL - Osiejk;Croatia
+24000272;ZNL - Sibenik;Croatia
+24000273;ZNL - Vukovar;Croatia
+24000274;ZNL - Split;Croatia
+24000275;ZNL - Pazin;Croatia
+24000276;ZNL - Dubrovnik;Croatia
+24000277;ZNL - Cakovec;Croatia
+24000278;ZNL - Zagreb;Croatia
+25060473;Third Division CFL B;Czech Republic
+25060474;Fourth Division F;Czech Republic
+26031734;Third Division;Cyprus
+27001459;Denmark's Series Group 1;Denmark
+27001479;Denmark's Series Group 2;Denmark
+27001496;Denmark's Series Group 3;Denmark
+27065986;Denmark's Series Group 4;Denmark
+29138853;Midland Football League;United Kingdom
+29236869;JD Cymru North;United Kingdom
+29236870;JD Cymru South;United Kingdom
+30004922;Isthmian D1N;United Kingdom
+30004923;Isthmian D1 SE;United Kingdom
+30007231;Combined Counties Premier;United Kingdom
+30007232;Eastern Counties Premier;United Kingdom
+30007233;Essex Senior;United Kingdom
+30007234;Hellenic Premier;United Kingdom
+30007235;Southern Counties East;United Kingdom
+30007237;NW Counties Premier;United Kingdom
+30007238;N'thrn Counties East Prem;United Kingdom
+30007239;Northern D1;United Kingdom
+30007240;Spartan South Mids Prem;United Kingdom
+30007241;Southern Comb;United Kingdom
+30007242;United Counties Premier;United Kingdom
+30007243;Wessex Premier;United Kingdom
+30007244;Western Premier;United Kingdom
+30054859;Third Division Prishtina;Kosovo
+30054860;Third Division Gjakova;Kosovo
+31038501;Isthmian D1 SC;United Kingdom
+33000001;League Cup;Finland
+33000117;Second Division Group B;Finland
+33000118;Second Division Group A;Finland
+33000120;Second Division Group C;Finland
+33021831;Finnish Third Division;Finland
+35010926;3. Liga;Germany
+35010927;Regional Div. West;Germany
+35024472;Bremen;Germany
+35024475;Hamburg;Germany
+35024476;Schleswig-Holstein;Germany
+35102297;Lower Saxony;Germany
+36031104;Regional Division 1;Greece
+36031105;Regional Division 2;Greece
+36031106;Regional Division 3;Greece
+36031107;Regional Division 4;Greece
+36031108;Regional Division 5;Greece
+36031109;Regional Division 6;Greece
+36031110;Regional Division 7;Greece
+36031111;Regional Division 8;Greece
+36042397;GAD - Athens;Greece
+36042398;GAD - Macedonia;Greece
+36042399;GAD - Piraeus;Greece
+36042400;GAD - Eastern Attica;Greece
+36042401;GAD - Western Attica;Greece
+36042402;GAD - Grevena;Greece
+36042403;GAD - Kozani;Greece
+36042404;GAD - Kastoria;Greece
+36042405;GAD - Florina;Greece
+36042406;GAD - Pella;Greece
+36042407;GAD - Kilkis;Greece
+36042408;GAD - Imathia;Greece
+36042409;GAD - Chalkidiki;Greece
+36042410;GAD - Serres;Greece
+36042411;GAD - Drama;Greece
+36042412;GAD - Kavala;Greece
+36042413;GAD - Pieria;Greece
+36042414;GAD - Larisa;Greece
+36042415;GAD - Trikala;Greece
+36042416;GAD - Karditsa;Greece
+36042417;GAD - Thessaly;Greece
+36042418;GAD - Thraki;Greece
+36042419;GAD - Evros;Greece
+36042420;GAD - Xanthi;Greece
+36042421;GAD - Voiotia;Greece
+36042422;GAD - Fokida;Greece
+36042423;GAD - Aitoloakarnania;Greece
+36042424;GAD - Evrytania;Greece
+36042425;GAD - Evoia;Greece
+36042426;GAD - Fthiotida;Greece
+36042427;GAD - Ipeiros;Greece
+36042428;GAD - Thesprotia;Greece
+36042429;GAD - Arta;Greece
+36042430;GAD - Preveza;Greece
+36042431;GAD - Argolida;Greece
+36042432;GAD - Achaia;Greece
+36042433;GAD - Korinthia;Greece
+36042434;GAD - Ileia;Greece
+36042435;GAD - Arkadia;Greece
+36042436;GAD - Messinia;Greece
+36042437;GAD - Lakonia;Greece
+36042438;GAD - Zakynthos;Greece
+36042439;GAD - Kefallonia & Ithaki;Greece
+36042440;GAD - Kerkyra;Greece
+36042441;GAD - Kyklades;Greece
+36042442;GAD - Dodekanisa;Greece
+36042443;GAD - Samos;Greece
+36042444;GAD - Chios;Greece
+36042445;GAD - Lesvos;Greece
+36042446;GAD - Chania;Greece
+36042447;GAD - Rethymno;Greece
+36042448;GAD - Irakleio;Greece
+36042449;GAD - Lasithi;Greece
+36513629;Premier League;Sudan
+36522289;Pohnpei Premier League;Micronesia (Federated States of)
+36522304;YFA Island Wide League;Micronesia (Federated States of)
+36527043;Intermediate League;Gibraltar
+36532636;National League;Gibraltar
+37040965;Erste Divisie;Suriname
+37043719;Eerste Klasse Zaterdag A;Netherlands
+37043751;Eerste Klasse Zaterdag B;Netherlands
+37043752;Eerste Klasse Zaterdag C;Netherlands
+37043753;Eerste Klasse Zaterdag D;Netherlands
+37043754;Eerste Klasse Zaterdag E;Netherlands
+37043755;Eerste Klasse Zondag A;Netherlands
+37043756;Eerste Klasse Zondag B;Netherlands
+37043757;Eerste Klasse Zondag C;Netherlands
+37043758;Eerste Klasse Zondag D;Netherlands
+37043759;Eerste Klasse Zondag E;Netherlands
+37043760;Eerste Klasse Zondag F;Netherlands
+37059991;Dutch Tweede Divisie;Netherlands
+37059992;Derde Divisie Zaterdag;Netherlands
+37059993;Derde Divisie Zondag;Netherlands
+37066039;Dutch Tweede Klasse Zater;Netherlands
+37066040;Dutch Tweede Klasse Zater;Netherlands
+37066041;Dutch Tweede Klasse Zater;Netherlands
+37066042;Dutch Tweede Klasse Zater;Netherlands
+37066043;Dutch Tweede Klasse Zater;Netherlands
+37066044;Dutch Tweede Klasse Zater;Netherlands
+37066045;Dutch Tweede Klasse Zater;Netherlands
+37066046;Dutch Tweede Klasse Zater;Netherlands
+37066047;Dutch Tweede Klasse Zater;Netherlands
+37066048;Dutch Tweede Klasse Zater;Netherlands
+37066049;Dutch Tweede Klasse Zonda;Netherlands
+37066050;Dutch Tweede Klasse Zonda;Netherlands
+37066051;Dutch Tweede Klasse Zonda;Netherlands
+37066052;Dutch Tweede Klasse Zonda;Netherlands
+37066053;Dutch Tweede Klasse Zonda;Netherlands
+37066054;Dutch Tweede Klasse Zonda;Netherlands
+37066055;Dutch Tweede Klasse Zonda;Netherlands
+37066056;Dutch Tweede Klasse Zonda;Netherlands
+37066057;Dutch Tweede Klasse Zonda;Netherlands
+37066058;Dutch Tweede Klasse Zonda;Netherlands
+37066059;Dutch Tweede Klasse Zonda;Netherlands
+37066060;Dutch Tweede Klasse Zonda;Netherlands
+37073213;Dutch Derde Klasse Zaterd;Netherlands
+37073214;Dutch Derde Klasse Zaterd;Netherlands
+37073215;Dutch Derde Klasse Zaterd;Netherlands
+37073216;Dutch Derde Klasse Zaterd;Netherlands
+37073217;Dutch Derde Klasse Zaterd;Netherlands
+37073218;Dutch Derde Klasse Zaterd;Netherlands
+37073219;Dutch Derde Klasse Zaterd;Netherlands
+37073220;Dutch Derde Klasse Zaterd;Netherlands
+37073221;Dutch Derde Klasse Zaterd;Netherlands
+38036804;Division III - Kelet;Hungary
+38036805;Division III - Közép;Hungary
+38036806;Division III - Nyugat;Hungary
+38044481;U19 Division II;Hungary
+38044505;U19 Lower Division;Hungary
+39030708;Second Division;Iceland
+39033648;Third Division;Iceland
+39037297;Super League;Uganda
+39037298;Lower Leagues;Uganda
+39052665;U19 Division A;Iceland
+39052666;U19 Division B;Iceland
+39052667;U19 Division C;Iceland
+40026574;Indian Lower Division;India
+40035409;U18 NFL Goa Zone;India
+40035413;U18 NFL;India
+41004312;League One;Indonesia
+41042740;League Two;Indonesia
+41042746;League Three;Indonesia
+41045091;League Four;Indonesia
+42016163;A League North;Israel
+42016164;A League South;Israel
+42021439;B League South A;Israel
+42021440;B League South B;Israel
+42021441;B League North A;Israel
+42021442;B League North B;Israel
+42021444;C League Upper Galilee;Israel
+42021445;C League Yizre'el;Israel
+42021446;C League Central;Israel
+42021447;C League Samaria;Israel
+42021448;C League Sharon;Israel
+42021449;C League Tel-Aviv;Israel
+42021450;C League South;Israel
+42057767;C League Lower Galilee;Israel
+42085480;Youth National North Div.;Israel
+42085481;Youth National South Div.;Israel
+42085483;Youth State North Div.;Israel
+42085484;Youth State South Div.;Israel
+42085486;Youth Yizre'el Division;Israel
+42085487;Youth North Division;Israel
+42085488;Youth North1 Division;Israel
+42085489;Youth Shfela Division;Israel
+43032015;San Marino League;San Marino
+43064519;Eccellenza Abruzzo;Italy
+43064520;Eccellenza Basilicata;Italy
+43064521;Eccellenza Calabria;Italy
+43064522;Eccellenza Campania A;Italy
+43064523;Eccellenza Campania B;Italy
+43064524;Eccellenza Emilia-Rom. A;Italy
+43064525;Eccellenza Emilia-Rom. B;Italy
+43064526;Eccellenza Friuli-V.G.;Italy
+43064527;Eccellenza Lazio A;Italy
+43064528;Eccellenza Lazio B;Italy
+43064529;Eccellenza Liguria;Italy
+43064530;Eccellenza Lombardia A;Italy
+43064531;Eccellenza Lombardia B;Italy
+43064532;Eccellenza Lombardia C;Italy
+43064533;Eccellenza Marche;Italy
+43064534;Eccellenza Molise;Italy
+43064535;Eccellenza Piemonte A;Italy
+43064536;Eccellenza Piemonte B;Italy
+43064537;Eccellenza Puglia;Italy
+43064538;Eccellenza Sardegna;Italy
+43064539;Eccellenza Sicilia A;Italy
+43064540;Eccellenza Sicilia B;Italy
+43064541;Eccellenza Toscana A;Italy
+43064542;Eccellenza Toscana B;Italy
+43064543;Eccellenza Trentino-A.A.;Italy
+43064544;Eccellenza Umbria;Italy
+43064545;Eccellenza Veneto A;Italy
+43064546;Eccellenza Veneto B;Italy
+43104614;Promoz. Abruzzo A;Italy
+43104615;Promoz. Abruzzo B;Italy
+43104616;Promoz. Basilicata;Italy
+43104617;Promoz. Calabria A;Italy
+43104618;Promoz. Calabria B;Italy
+43104619;Promoz. Campania A;Italy
+43104620;Promoz. Campania B;Italy
+43104621;Promoz. Campania C;Italy
+43104622;Promoz. Campania D;Italy
+43104623;Promoz. Emilia-Romagna A;Italy
+43104624;Promoz. Emilia-Romagna B;Italy
+43104625;Promoz. Emilia-Romagna C;Italy
+43104626;Promoz. Emilia-Romagna D;Italy
+43104627;Promoz. Friuli-V.G. A;Italy
+43104628;Promoz. Friuli-V.G. B;Italy
+43104629;Promoz. Lazio A;Italy
+43104630;Promoz. Lazio B;Italy
+43104631;Promoz. Lazio C;Italy
+43104632;Promoz. Lazio D;Italy
+43104633;Promoz. Liguria A;Italy
+43104634;Promoz. Liguria B;Italy
+43104635;Promoz. Lombardia A;Italy
+43104636;Promoz. Lombardia B;Italy
+43104637;Promoz. Lombardia C;Italy
+43104638;Promoz. Lombardia D;Italy
+43104639;Promoz. Lombardia E;Italy
+43104640;Promoz. Lombardia F;Italy
+43104642;Promoz. Marche A;Italy
+43104643;Promoz. Marche B;Italy
+43104644;Promoz. Molise;Italy
+43104645;Promoz. Piemonte-VdA A;Italy
+43104646;Promoz. Piemonte-VdA B;Italy
+43104647;Promoz. Piemonte-VdA C;Italy
+43104648;Promoz. Piemonte-VdA D;Italy
+43104649;Promoz. Puglia A;Italy
+43104650;Promoz. Puglia B;Italy
+43104651;Promoz. Sardegna A;Italy
+43104652;Promoz. Sardegna B;Italy
+43104653;Promoz. Sicilia A;Italy
+43104654;Promoz. Sicilia B;Italy
+43104655;Promoz. Sicilia C;Italy
+43104656;Promoz. Sicilia D;Italy
+43104657;Promoz. Toscana A;Italy
+43104658;Promoz. Toscana B;Italy
+43104659;Promoz. Toscana C;Italy
+43104660;Promoz. Alto Adige;Italy
+43104661;Promoz. Trentino;Italy
+43104662;Promoz. Umbria A;Italy
+43104663;Promoz. Umbria B;Italy
+43104664;Promoz. Veneto A;Italy
+43104665;Promoz. Veneto B;Italy
+43104666;Promoz. Veneto C;Italy
+43104667;Promoz. Veneto D;Italy
+43127172;Serie C/A;Italy
+43127173;Serie C/B;Italy
+43127174;Serie C/C;Italy
+43411771;Prima Cat. Abruzzo A;Italy
+43411773;Prima Cat. Abruzzo B;Italy
+43411774;Prima Cat. Abruzzo C;Italy
+43411775;Prima Cat. Abruzzo D;Italy
+43411777;Prima Cat. Alto Adige A;Italy
+43411778;Prima Cat. Alto Adige B;Italy
+43411779;Prima Cat. Basilicata A;Italy
+43411780;Prima Cat. Basilicata B;Italy
+43411781;Prima Cat. Calabria A;Italy
+43411782;Prima Cat. Calabria B;Italy
+43411783;Prima Cat. Calabria C;Italy
+43411784;Prima Cat. Calabria D;Italy
+43411785;Prima Cat. Campania A;Italy
+43411786;Prima Cat. Campania B;Italy
+43411787;Prima Cat. Campania C;Italy
+43411788;Prima Cat. Campania D;Italy
+43411789;Prima Cat. Campania E;Italy
+43411790;Prima Cat. Campania F;Italy
+43411792;Prima Cat. Emilia-Rom. A;Italy
+43411793;Prima Cat. Emilia-Rom. B;Italy
+43411794;Prima Cat. Emilia-Rom. C;Italy
+43411795;Prima Cat. Emilia-Rom. D;Italy
+43411796;Prima Cat. Emilia-Rom. E;Italy
+43411797;Prima Cat. Emilia-Rom. F;Italy
+43411798;Prima Cat. Emilia-Rom. G;Italy
+43411799;Prima Cat. Emilia-Rom. H;Italy
+43411800;Prima Cat. Friuli-V.G. A;Italy
+43411801;Prima Cat. Friuli-V.G. B;Italy
+43411802;Prima Cat. Friuli-V.G. C;Italy
+43411803;Prima Cat. Lazio A;Italy
+43411804;Prima Cat. Lazio B;Italy
+43411805;Prima Cat. Lazio C;Italy
+43411806;Prima Cat. Lazio D;Italy
+43411807;Prima Cat. Lazio E;Italy
+43411808;Prima Cat. Lazio F;Italy
+43411809;Prima Cat. Lazio G;Italy
+43411810;Prima Cat. Lazio H;Italy
+43411811;Prima Cat. Lazio I;Italy
+43411812;Prima Cat. Liguria A;Italy
+43411813;Prima Cat. Liguria B;Italy
+43411814;Prima Cat. Liguria C;Italy
+43411815;Prima Cat. Liguria D;Italy
+43411816;Prima Cat. Lombardia A;Italy
+43411817;Prima Cat. Lombardia B;Italy
+43411818;Prima Cat. Lombardia C;Italy
+43411819;Prima Cat. Lombardia D;Italy
+43411820;Prima Cat. Lombardia E;Italy
+43411821;Prima Cat. Lombardia F;Italy
+43411823;Prima Cat. Lombardia G;Italy
+43411824;Prima Cat. Lombardia H;Italy
+43411825;Prima Cat. Lombardia I;Italy
+43411826;Prima Cat. Lombardia L;Italy
+43411827;Prima Cat. Lombardia M;Italy
+43411828;Prima Cat. Lombardia N;Italy
+43411829;Prima Cat. Marche A;Italy
+43411830;Prima Cat. Marche B;Italy
+43411831;Prima Cat. Marche C;Italy
+43411832;Prima Cat. Marche D;Italy
+43411833;Prima Cat. Molise A;Italy
+43411834;Prima Cat. Molise B;Italy
+43411836;Prima Cat. Piemonte A;Italy
+43411837;Prima Cat. Piemonte B;Italy
+43411838;Prima Cat. Piemonte C;Italy
+43411839;Prima Cat. Piemonte D;Italy
+43411840;Prima Cat. Piemonte E;Italy
+43411841;Prima Cat. Piemonte F;Italy
+43411842;Prima Cat. Piemonte G;Italy
+43411844;Prima Cat. Puglia A;Italy
+43411845;Prima Cat. Puglia B;Italy
+43411846;Prima Cat. Puglia C;Italy
+43411847;Prima Cat. Sardegna A;Italy
+43411848;Prima Cat. Sardegna B;Italy
+43411849;Prima Cat. Sardegna C;Italy
+43411850;Prima Cat. Sardegna D;Italy
+43411852;Prima Cat. Sicilia A;Italy
+43411853;Prima Cat. Sicilia B;Italy
+43411854;Prima Cat. Sicilia C;Italy
+43411855;Prima Cat. Sicilia D;Italy
+43411856;Prima Cat. Sicilia E;Italy
+43411857;Prima Cat. Sicilia F;Italy
+43411858;Prima Cat. Sicilia G;Italy
+43411859;Prima Cat. Toscana A;Italy
+43411860;Prima Cat. Toscana B;Italy
+43411861;Prima Cat. Toscana C;Italy
+43411862;Prima Cat. Toscana D;Italy
+43411863;Prima Cat. Toscana E;Italy
+43411864;Prima Cat. Toscana F;Italy
+43411865;Prima Cat. Trentino A;Italy
+43411866;Prima Cat. Trentino B;Italy
+43411867;Prima Cat. Trentino C;Italy
+43411868;Prima Cat. Umbria A;Italy
+43411869;Prima Cat. Umbria B;Italy
+43411870;Prima Cat. Umbria C;Italy
+43411871;Prima Cat. Umbria D;Italy
+43411872;Seconda Categoria;Italy
+43411873;Terza Categoria;Italy
+43411874;Prima Cat. Veneto A;Italy
+43411875;Prima Cat. Veneto B;Italy
+43411876;Prima Cat. Veneto C;Italy
+43411877;Prima Cat. Veneto D;Italy
+43411878;Prima Cat. Veneto E;Italy
+43411879;Prima Cat. Veneto F;Italy
+43411880;Prima Cat. Veneto G;Italy
+43411881;Prima Cat. Veneto H;Italy
+45002926;Tohoku League 2 South;Japan
+45002928;Hokkaido Lower;Japan
+45002990;Aomori League;Japan
+45002991;Akita League;Japan
+45002992;Fukushima League;Japan
+45002993;Iwate League;Japan
+45002994;Miyagi League;Japan
+45002995;Yamagata League;Japan
+45002996;Chiba League;Japan
+45002997;Gunma League;Japan
+45002998;Ibaraki League;Japan
+45002999;Kanagawa League;Japan
+45003000;Saitama League;Japan
+45003001;Tochigi League;Japan
+45003002;Tokyo League;Japan
+45003003;Yamanashi League;Japan
+45003004;Aichi League;Japan
+45003005;Gifu League;Japan
+45003006;Mie League;Japan
+45003007;Shizuoka League;Japan
+45003008;Fukui League;Japan
+45003009;Ishikawa League;Japan
+45003010;Nagano League;Japan
+45003011;Niigata League;Japan
+45003012;Toyama League;Japan
+45003013;Hyogo League;Japan
+45003014;Kyoto League;Japan
+45003015;Nara League;Japan
+45003016;Osaka League;Japan
+45003017;Shiga League;Japan
+45003018;Wakayama League;Japan
+45003019;Hiroshima League;Japan
+45003020;Okayama League;Japan
+45003021;Shimane League;Japan
+45003022;Tottori League;Japan
+45003023;Yamaguchi League;Japan
+45003024;Ehime League;Japan
+45003025;Kagawa League;Japan
+45003026;Kochi League;Japan
+45003027;Tokushima League;Japan
+45003028;Fukuoka League;Japan
+45003029;Kagoshima League;Japan
+45003030;Kumamoto League;Japan
+45003031;Miyazaki League;Japan
+45003032;Nagasaki League;Japan
+45003033;Oita League;Japan
+45003034;Saga League;Japan
+45003035;Okinawa League;Japan
+45003342;Hokkaido Eastern Block;Japan
+45003343;Hokkaido Southern Block;Japan
+45036299;Hokkaido Sapporo Block;Japan
+45082430;Super League;Saint Kitts and Nevis
+45082431;Club Championship;Saint Vincent and the Grenadines
+45082432;First Division;Saint Lucia
+45082433;Elite League;Guyana
+45082434;CIFA Premier League;Cayman Islands
+45082437;Lower Division;Guyana
+45082438;Lower Division;Puerto Rico
+45082439;First Division;Saint Kitts and Nevis
+45082440;Lower Division;Saint Lucia
+45082441;First Division;Saint Vincent and the Grenadines
+45082468;Tweede Divise;Suriname
+45082480;Promé Division;Curaçao
+45082481;Premier League;Dominica
+45082484;Lower Division;Curaçao
+45082485;First Division;Dominica
+45115574;U18 Premier East;Japan
+45115575;U18 Premier West;Japan
+45115581;U18 Prince - Tokai;Japan
+45116776;Hokkaido C/N Block;Japan
+47000005;First Division;Andorra
+47000006;Second Division;Andorra
+47000008;Lower Division;Andorra
+47016893;Lower Leagues;Estonia
+47053671;Second Division;Malta
+47073317;First B League;Estonia
+47075710;Second League East;North Macedonia
+47075711;Second League West;North Macedonia
+49039425;D1R;Réunion
+49039426;D2R;Réunion
+50046767;Nat 3 - Auvergne RA;France
+50046768;Nat 3 - Nouv Aquitaine;France
+50046769;Nat 3 - Bretagne;France
+50046770;Nat 3 - Centre Val Loire;France
+50046771;Nat 3 - Corse - Med;France
+50046772;Nat 3 - Grand Est;France
+50046773;Nat 3 - Hauts France;France
+50046774;Nat 3 - Normandie;France
+50046776;Nat 3 - Bourgogne FC;France
+50048443;Nat 3 - Occitanie;France
+50048444;Nat 3 - Paris Ile France;France
+50048445;Nat 3 - Pays de la Loire;France
+51013961;Third Division;Mexico
+51013967;Third Division Group I;Mexico
+51013968;Third Division Group II;Mexico
+51013985;Third Division Group III;Mexico
+51013986;Third Division Group IV;Mexico
+51013987;Third Division Group V;Mexico
+51013988;Third Division Group VI;Mexico
+51013989;Third Division Group VII;Mexico
+51013990;Third Division Group VIII;Mexico
+51013991;Third Division Group IX;Mexico
+51013992;Third Division Group X;Mexico
+51013993;Third Division Group XI;Mexico
+51013994;Third Division Group XII;Mexico
+51013995;Third Division Group XIII;Mexico
+51066838;Serie A Group I;Mexico
+51066839;Serie A Group II;Mexico
+51066840;Premier League Serie B;Mexico
+52005285;Mid Ulster Intermediate B;United Kingdom
+52025757;Amateur Division 1C;United Kingdom
+52025827;Amateur League 2A;United Kingdom
+52029648;Munster First Division;Ireland
+52029649;Munster Second Division;Ireland
+52029650;Leinster Senior 1A;Ireland
+52031875;Ballymena SM Division One;United Kingdom
+52031876;N West Junior Premier;United Kingdom
+52033665;Mid Ulster Division One;United Kingdom
+52033666;Amateur Division 2B;United Kingdom
+52033667;Amateur Division 2C;United Kingdom
+52033668;Mid Ulster Division Two;United Kingdom
+52033669;Ballymena SM Division Two;United Kingdom
+52033670;Carnbane Premier Division;United Kingdom
+52033671;Newcastle Premier Div;United Kingdom
+52033672;Carnbane Division;United Kingdom
+52033673;Down Area Premier;United Kingdom
+52033674;Fermanagh Division One;United Kingdom
+52033675;Fermanagh Division Two;United Kingdom
+52033676;Fermanagh Division Three;United Kingdom
+52033677;Coleraine Premier Div;United Kingdom
+52033678;Coleraine Morning League;United Kingdom
+52034091;Ballymena Junior Div 1;United Kingdom
+52034092;Ballymena SM Division 3;United Kingdom
+52039004;Leinster Senior 1B;Ireland
+52041289;Wexford Premier Division;Ireland
+52041290;Waterford Premier Div;Ireland
+52041411;Galway Premier Division;Ireland
+52041415;Mayo Super League;Ireland
+52041515;Limerick Premier Division;Ireland
+52041516;Tipperary South Premier;Ireland
+52041533;Donegal Premier Division;Ireland
+52062811;Clare Premier Division;Ireland
+52063048;Combined Counties Premier;Ireland
+52063852;AUL Premier A;Ireland
+52063944;Cork AUL Premier League;Ireland
+52077937;1. Division - North;Luxembourg
+52077939;1. Division - South;Luxembourg
+52086882;U19 National League;Ireland
+52092869;NIFL U18 League;United Kingdom
+52092877;N.Irish National YL;United Kingdom
+52094997;NIFL Champ/Devlop League;United Kingdom
+52098613;Sligo Leitrim League;Ireland
+52098632;Irish Carlow & District L;Ireland
+52098633;Irish North East Football;Ireland
+52098634;Irish Kildare & District ;Ireland
+52098635;Irish Kilkenny & District;Ireland
+52098636;Irish Wicklow & District ;Ireland
+52098637;Irish Kerry & District Le;Ireland
+52098638;Irish Limerick Desmond Le;Ireland
+52098639;Irish North Tipperary & D;Ireland
+52098640;Irish Innishowen Premier ;Ireland
+52098641;Monaghan Cavan League;Ireland
+52098642;Irish Roscommon & Distric;Ireland
+53006974;Lower Division;Norway
+53057341;Third Division Group 1;Norway
+53057342;Third Division Group 2;Norway
+53057343;Third Division Group 3;Norway
+53057344;Third Division Group 4;Norway
+53057345;Third Division Group 5;Norway
+53057346;Third Division Group 6;Norway
+53162001;Fourth Division Østfold;Norway
+53162002;Fourth Division Akershus;Norway
+53162003;Fourth Division Oslo A;Norway
+53162004;Fourth Division Oslo B;Norway
+53162005;Fourth Division Oslo C;Norway
+53162006;Fourth Div. Indre Øst. A;Norway
+53162007;Fourth Div. Indre Øst. B;Norway
+53162008;Fourth Division Buskerud;Norway
+53162009;Fourth Division Vestfold;Norway
+53162010;Fourth Division Telemark;Norway
+53162011;Fourth Division Agder;Norway
+53162012;Fourth Div. Rogaland A;Norway
+53162013;Fourth Div. Rogaland B;Norway
+53162014;Fourth Div. Hordaland A;Norway
+53162015;Fourth Div. Hordaland B;Norway
+53162016;Fourth Div. Sogn & Fj.;Norway
+53162017;Fourth Division Sunnmøre;Norway
+53162018;Fourth Div. Nordmøre & R.;Norway
+53162019;Fourth Div. Trøndelag A;Norway
+53162020;Fourth Div. Trøndelag B;Norway
+53162021;Fourth Division Nordland;Norway
+53162022;Fourth Div. Hålogaland;Norway
+53162023;Fourth Division Troms;Norway
+53162024;Fourth Division Finnmark;Norway
+55020301;Regional Division;Portugal
+55065643;PT Championship A;Portugal
+55065659;PT Championship B;Portugal
+55065660;PT Championship C;Portugal
+55065661;PT Championship D;Portugal
+56039004;Divizia Tineret-Rezerve;Moldova
+57015177;Liga III Seria 2;Romania
+57015179;Liga III Seria 3;Romania
+57015180;Liga III Seria 4;Romania
+57015181;Liga III Seria 5;Romania
+57048424;Liga IV Arad;Romania
+57048504;Liga IV Alba;Romania
+57048505;Liga IV Arges;Romania
+57048506;Liga IV Bacau;Romania
+57048507;Liga IV Bihor;Romania
+57048508;Liga IV Bistrita-Nasaud;Romania
+57048509;Liga IV Botosani;Romania
+57048510;Liga IV Brasov;Romania
+57048511;Liga IV Braila;Romania
+57048512;Liga IV Vrancea;Romania
+57048513;Liga IV Buzau;Romania
+57048514;Liga IV Caras-Severin;Romania
+57048515;Liga IV Calarasi;Romania
+57048516;Liga IV Cluj;Romania
+57048517;Liga IV Constanta;Romania
+57048518;Liga IV Covasna;Romania
+57048519;Liga IV Dâmbovita;Romania
+57048520;Liga IV Dolj;Romania
+57048521;Liga IV Galati;Romania
+57048522;Liga IV Giurgiu;Romania
+57048523;Liga IV Gorj;Romania
+57048524;Liga IV Harghita;Romania
+57048525;Liga IV Hunedoara;Romania
+57048526;Liga IV Ialomita;Romania
+57048527;Liga IV Iasi;Romania
+57048528;Liga IV Ilfov;Romania
+57048529;Liga IV Maramures;Romania
+57048530;Liga IV Mehedinti;Romania
+57048531;Liga IV Mures;Romania
+57048532;Liga IV Neamt;Romania
+57048533;Liga IV Olt;Romania
+57048534;Liga IV Prahova;Romania
+57048535;Liga IV Satu Mare;Romania
+57048536;Liga IV Salaj;Romania
+57048537;Liga IV Sibiu;Romania
+57048538;Liga IV Suceava;Romania
+57048539;Liga IV Teleorman;Romania
+57048540;Liga IV Timis;Romania
+57048541;Liga IV Tulcea;Romania
+57048542;Liga IV Vaslui;Romania
+57048543;Liga IV Vâlcea;Romania
+57064460;County League;Romania
+57161614;Romanian U19 Top League;Romania
+57161641;Campionatul National U19;Romania
+58031020;Third Division - MskObl;Russia
+59005735;High League;Kyrgyzstan
+59006196;High League;Armenia
+59006197;First League;Armenia
+59006198;Lower League;Armenia
+59006943;Premier League;Azerbaijan
+59006945;Lower League;Azerbaijan
+59007527;Kazakhstan Premier League;Kazakhstan
+59007597;Kazakhstan Lower League;Kazakhstan
+59007607;Divizia Nationala;Moldova
+59007627;Moldovan Divizia A;Moldova
+59007628;Moldovan Lower Division;Moldova
+59007872;Georgian Lower League;Georgia
+59007964;High League;Tajikistan
+59007965;Lower League;Tajikistan
+59008101;First League;Azerbaijan
+59008472;Moldovan Divizia B Nord;Moldova
+59008473;Moldovan Divizia B Sud;Moldova
+59010820;Kazakhstan First League;Kazakhstan
+59039549;Lower League;Kyrgyzstan
+59069897;Kyrgyzstani D1 ZA;Kyrgyzstan
+59069898;Kyrgyzstani D1 ZB;Kyrgyzstan
+59091978;Ikkinchi Liga Farg'ona;Uzbekistan
+59104404;Uzbek 2 Samarkand;Uzbekistan
+59107181;Second League;Kazakhstan
+59107188;Semei Championship;Kazakhstan
+59107189;East Kazakhstan Champ.;Kazakhstan
+59107190;Ural'sk Championship;Kazakhstan
+59107191;Aktobe Championship;Kazakhstan
+59107192;Aktau Championship;Kazakhstan
+59107193;Atyrau Region Champ.;Kazakhstan
+59107194;Temirtau AFL;Kazakhstan
+59107195;Karagandy Region Champ.;Kazakhstan
+59107196;Astana Championship;Kazakhstan
+59107197;Petropavlovsk Champ.;Kazakhstan
+59107198;Kostanay Region Champ.;Kazakhstan
+59107199;Pavlodar Region Champ.;Kazakhstan
+59107200;Kokshetau Championship;Kazakhstan
+59107201;Shymkent Championship;Kazakhstan
+59107202;Kyzylorda Region Champ.;Kazakhstan
+59107203;Taldykorgan Championship;Kazakhstan
+59107204;South Kazakhstan Champ.;Kazakhstan
+59107205;Taraz Open Championship;Kazakhstan
+59107206;Almaty A League;Kazakhstan
+59107902;Almaty Junior League;Kazakhstan
+59110037;Tajik First;Tajikistan
+59126495;Georgian National League;Georgia
+59126496;Georgian National League ;Georgia
+59126497;Liga 3;Georgia
+59131728;Capital and North;Azerbaijan
+59131729;South and Central;Azerbaijan
+59131730;North-West and West;Azerbaijan
+59133946;2nd Div. Dushanbe;Tajikistan
+59133947;2nd Div. Hatlon Region;Tajikistan
+59133948;2nd Div. Sughd Region;Tajikistan
+59133949;2nd Div. Rasht Region;Tajikistan
+59134916;North Zone;Azerbaijan
+59135038;Superleague;Uzbekistan
+59143695;Liga 4;Georgia
+59143697;Western A;Georgia
+59143698;Western B;Georgia
+59143700;Eastern A;Georgia
+59143701;Eastern B;Georgia
+59143702;Eastern C;Georgia
+59143728;Pro A;Uzbekistan
+59143730;Pro B East;Uzbekistan
+59143731;Pro B West;Uzbekistan
+61006615;Highland League;United Kingdom
+61006616;EoS Premier;United Kingdom
+61006755;South of United Kingdom;United Kingdom
+61006769;North Caledonian League;United Kingdom
+61021798;West Region Premiership;United Kingdom
+61021805;West Championship;United Kingdom
+61021806;West League 2;United Kingdom
+61021807;West League 1;United Kingdom
+61021809;East Superleague South;United Kingdom
+61021810;East Superleague;United Kingdom
+61021811;East Region North;United Kingdom
+61021813;East Region South;United Kingdom
+61021814;North Superleague;United Kingdom
+61021815;North Division 2;United Kingdom
+61021816;North Division 1;United Kingdom
+61063387;Lowland League;United Kingdom
+61088723;EoS First Division A;United Kingdom
+61088724;EoS First Division B;United Kingdom
+62002147;Lower League;Montenegro
+62095849;Zone League;Serbia
+64000176;Third League East;Slovenia
+64000177;Lower League;Slovenia
+64043172;Second Division;Oman
+64047528;First Division Grp C;Oman
+64047529;First Division Grp D;Oman
+64047956;Laotian League 2;Laos
+65010780;Western Cape Division 2;South Africa
+65010781;Northern Cape Division 2;South Africa
+65010782;North West Division 2;South Africa
+65010783;Mpumalanga Division 2;South Africa
+65010784;Limpopo Division 2;South Africa
+65010785;Gauteng Division 2;South Africa
+65010786;KwaZulu Natal Division 2;South Africa
+65010787;Free State Division 2;South Africa
+65010788;Eastern Cape Division 2;South Africa
+65025757;Eastern Cape Division 3;South Africa
+65025758;Free State Division 3;South Africa
+65025759;Kwazulu Natal Division 3;South Africa
+65025760;Gauteng Division 3;South Africa
+65025761;Limpopo Division 3;South Africa
+65025762;Mpumalanga Division 3;South Africa
+65025763;North West Division 3;South Africa
+65025764;Western Cape Division 3;South Africa
+65025765;Northern Cape Division 3;South Africa
+66010517;K3 League;South Korea
+66029602;K LEAGUE 2;South Korea
+66039929;KleagueJunior A;South Korea
+66039930;KleagueJunior B;South Korea
+66040773;K4 League;South Korea
+67023610;Third Division Group 1;Spain
+67023611;Third Division Group 2;Spain
+67023612;Third Division Group 3;Spain
+67023613;Third Division Group 4;Spain
+67023614;Third Division Group 5;Spain
+67023615;Third Division Group 6;Spain
+67023616;Third Division Group 7;Spain
+67023617;Third Division Group 8;Spain
+67023618;Third Division Group 9;Spain
+67023619;Third Division Group 10;Spain
+67023620;Third Division Group 11;Spain
+67023621;Third Division Group 12;Spain
+67023622;Third Division Group 13;Spain
+67023623;Third Division Group 14;Spain
+67023624;Third Division Group 15;Spain
+67023625;Third Division Group 16;Spain
+67023626;Third Division Group 17;Spain
+67023627;Third Division Group 18;Spain
+67101188;Reg. Pref. Galicia Norte;Spain
+67101189;Reg. Pref. Galicia Sur;Spain
+67101190;Reg. Pref. Asturias;Spain
+67101191;Reg. Pref. Cantabria;Spain
+67101192;Div. Honor Vizcaya;Spain
+67101193;Reg. Pref. Álava;Spain
+67101194;Div. Honor Reg. Guipúzcoa;Spain
+67101195;Primera Catalana G1;Spain
+67101196;Reg. Pref. Valenciana G1;Spain
+67101197;Reg. Pref. Valenciana G2;Spain
+67101198;Reg. Pref. Valenciana G3;Spain
+67101199;Reg. Pref. Valenciana G5;Spain
+67101200;Pref. Madrid Gr.1;Spain
+67101201;Pref. Madrid G2;Spain
+67101202;1ª Reg. Castilla y León A;Spain
+67101203;1ª Reg. Castilla y León B;Spain
+67101204;Primera Andaluza G1;Spain
+67101205;Primera Andaluza G2;Spain
+67101206;Primera Andaluza G3;Spain
+67101207;Primera Andaluza G4;Spain
+67101208;Pref. Ceuta;Spain
+67101209;1ª Reg. Pref. Mallorca;Spain
+67101210;Pref. Menorca;Spain
+67101211;Pref. Las Palmas;Spain
+67101212;Pref. Tenerife;Spain
+67101213;Terr. Pref. Murcia;Spain
+67101214;Reg. Pref. Extremadura G1;Spain
+67101215;Reg. Pref. Extremadura G2;Spain
+67101216;Reg. Pref. Navarra G1;Spain
+67101217;Reg. Pref. Navarra G2;Spain
+67101218;Reg. Pref. La Rioja;Spain
+67101219;Reg. Pref. Aragón G1;Spain
+67101220;Reg. Pref. Aragón G2;Spain
+67101221;1ª Aut.Pref. La Mancha G1;Spain
+67101222;1ª Aut.Pref. La Mancha G2;Spain
+67101223;1ª Aut. Melilla;Spain
+67101224;Reg. Ibiza-Formentera;Spain
+67196503;Primera Catalana G2;Spain
+67246444;Div. Honor Andalucía G1;Spain
+67246445;Div. Honor Andalucía G1;Spain
+67248615;U19 Division 1 Group 1;Spain
+67248625;U19 Division 1 Group 2;Spain
+67248626;U19 Division 1 Group 3;Spain
+67248627;U19 Division 1 Group 4;Spain
+67248629;U19 Division 1 Group 6;Spain
+67248630;U19 Division 1 Group 7;Spain
+67248770;U19 Division 2 Group 1;Spain
+67248771;U19 Division 2 Group 2;Spain
+67248772;U19 Division 2 Group 3;Spain
+67248773;U19 Division 2 Group 4;Spain
+67248774;U19 Division 2 Group 5;Spain
+67248775;U19 Division 2 Group 6;Spain
+67248776;U19 Division 2 Group 7;Spain
+67248779;U19 Division 2 Group 10;Spain
+67248781;U19 Division 2 Group 12;Spain
+67248782;U19 Division 2 Group 13;Spain
+67248783;U19 Division 2 Group 14;Spain
+67248784;U19 Division 2 Group 15;Spain
+67248904;U19 Division 2 Group 18;Spain
+68020096;First Division - North;Syria
+68020097;First Division - South;Syria
+70027104;Amateur League;Turkey
+70043162;3. League Group 1;Turkey
+70043163;3. League Group 2;Turkey
+70043164;3. League Group 3;Turkey
+70084836;Amateur League;Turkey
+70086159;RAL Group 1;Turkey
+70086160;RAL Group 2;Turkey
+70086161;RAL Group 3;Turkey
+70086162;RAL Group 4;Turkey
+70086163;RAL Group 5;Turkey
+70086164;RAL Group 6;Turkey
+70086165;RAL Group 7;Turkey
+70086166;RAL Group 8;Turkey
+70086167;RAL Group 9;Turkey
+70086168;RAL Group 10;Turkey
+70086169;RAL Group 11;Turkey
+71045304;URD - Khmelnyts'ka - D1;Ukraine
+71045305;URD - Lugans'ka - D1;Ukraine
+71045308;URD - Zakarpats'ka - D1;Ukraine
+71045309;URD - Vinnyts'ka - D1;Ukraine
+71045310;URD - Vinnyts'ka - D2;Ukraine
+71045311;URD - Kirovograds'ka - D1;Ukraine
+71045312;URD - Khersons'ka - D1;Ukraine
+71045315;URD - Lvivs'ka - D1;Ukraine
+71045316;URD - Lvivs'ka - D2;Ukraine
+71045317;URD - Donets'ka - D1;Ukraine
+71045319;URD - Zhytomyrs'ka - D1;Ukraine
+71045320;URD - Odes'ka - D1;Ukraine
+71045321;URD - Cherkas'ka - D1;Ukraine
+71045322;URD - Ivano-Frank. - D1;Ukraine
+71045323;URD - Ivano-Frank. - D2;Ukraine
+71045324;URD - Ternopils'ka - D1;Ukraine
+71045325;URD - Poltavs'ka - D1;Ukraine
+71045326;URD - Volyns'ka - D1;Ukraine
+71045329;URD - Mykolaivs'ka - D1;Ukraine
+71045333;URD - Chernigivs'ka - D1;Ukraine
+71045334;URD - Rivnens'ka - D1;Ukraine
+71045335;URD - Rivnens'ka - D2;Ukraine
+71045336;URD - Kharkivs'ka - D1;Ukraine
+71045337;URD - Dnipropetr. - D1;Ukraine
+71045339;URD - Zaporiz'ka - D1;Ukraine
+71045342;URD - Sums'ka - D1;Ukraine
+71045343;URD - Sums'ka - D2;Ukraine
+71045344;URD - Kyivs'ka - D1;Ukraine
+71045345;URD - Kyiv - D1;Ukraine
+71045346;URD - Kyiv - D2;Ukraine
+71045347;Second Division - A;Ukraine
+71045381;URD - Zakararpats'ka - D2;Ukraine
+71045511;URD - Odesa - D1;Ukraine
+71045512;URD - Odesa - D2;Ukraine
+71045686;Kharkivs'ka oblast - FL;Ukraine
+71045938;Ukrainian Amateur League ;Ukraine
+71045939;Ukrainian Amateur League ;Ukraine
+71045940;Ukrainian Amateur League ;Ukraine
+71046385;URD - Kharkiv;Ukraine
+71047459;URD - Chernivets'ka - D1;Ukraine
+71052250;URD - Dnipro;Ukraine
+71052251;URD - Kryvyi Rih;Ukraine
+71052308;URD - Kyivs'ka - D2;Ukraine
+71053276;URD - Kyivo-Svyatosh. r-n;Ukraine
+71053306;UCFL - High League;Ukraine
+71053307;1-st League;Ukraine
+71053308;UCFL - D2;Ukraine
+71053309;UCFL - 3-rd League;Ukraine
+71053310;UCFL - 4-th League;Ukraine
+71053311;UCFL - 5-th League;Ukraine
+71053312;6-th League;Ukraine
+71064659;URD - Dnipropetr. - D2;Ukraine
+71065037;URD - Cherkas'ka - D2;Ukraine
+71065038;URD - Chernigivs'ka - D2;Ukraine
+71065039;URD - Khersons'ka - D2;Ukraine
+71065040;URD - Khmelnyts'ka - D2;Ukraine
+71065041;URD - Kirovograds'ka - D2;Ukraine
+71065042;URD - Lugans'ka - D2;Ukraine
+71065043;URD - Lvivs'ka - D3;Ukraine
+71065045;URD - Kyiv - D3;Ukraine
+71065047;URD - Zhytomyrs'ka - D2;Ukraine
+71088573;Crimean Lower Division;Ukraine
+71093597;Crimean Premier League;Ukraine
+71100082;URD - Zaporiz'ka - D2;Ukraine
+71100083;URD - Ternopils'ka - D2;Ukraine
+72005990;PCSL;Canada
+72009462;First Division;Bermuda
+72021822;CSL2;Canada
+72043033;NAL - Northwest Division;United States
+72043034;NAL - Southwest Division;United States
+72043035;NAL - Frontier Division;United States
+72043036;NAL - Mid-America Div.;United States
+72043037;NAL - Southeast Division;United States
+72043038;NAL - Atlantic Division;United States
+72043039;NAL - Northeast Division;United States
+73100020;Premier Division;Haiti
+74009598;Welsh National Premier;United Kingdom
+74009634;Welsh League Div 2;United Kingdom
+74009638;Welsh National 1;United Kingdom
+74009702;Welsh Alliance First;United Kingdom
+74009703;Mid United Kingdom League 1;United Kingdom
+74009704;Gwynedd League;United Kingdom
+74010086;Gwent League Premier;United Kingdom
+74010089;Neath Premier;United Kingdom
+74010090;Pembroke Div 1;United Kingdom
+74010091;Swansea Division 1;United Kingdom
+74010092;Carmarthenshire Premier;United Kingdom
+74010310;Anglesey League;United Kingdom
+74010311;Welsh Alliance Second;United Kingdom
+74010831;Aberystwyth League One;United Kingdom
+74010832;Aberystwyth League Two;United Kingdom
+74011024;Ceredigion League One;United Kingdom
+74011025;Ceredigion League Two;United Kingdom
+74011066;Montgomery League One;United Kingdom
+74011081;Montgomery Division Two;United Kingdom
+74011086;Mid United Kingdom South League;United Kingdom
+74013576;Mid United Kingdom League 2;United Kingdom
+74015329;Gwent League Div 1;United Kingdom
+74015436;Pembroke Div 2;United Kingdom
+74016743;Vale of Clwyd Premier;United Kingdom
+74016744;Vale of Clwyd First;United Kingdom
+74016745;North East United Kingdom League;United Kingdom
+74039767;Swansea Division 2;United Kingdom
+74040882;S. United Kingdom Alliance Premier;United Kingdom
+74040883;S. United Kingdom Alliance Div 1;United Kingdom
+74044707;Carmarthenshire Div 1;United Kingdom
+75034137;Second Division;Chile
+75042234;ANFA;Chile
+75045762;North Group 3°B;Chile
+75045763;Centre Group 3°B;Chile
+75045764;South Group 3°B;Chile
+76017512;Lower Division;Colombia
+76050811;U20 Division;Colombia
+78046495;Cerro Largo League;Uruguay
+78046529;Rocha League;Uruguay
+78046563;Maldonado League;Uruguay
+78047441;Tacuarembó League;Uruguay
+78047893;Colonia League;Uruguay
+78047901;Canelones League;Uruguay
+78047910;Artigas League;Uruguay
+78047957;Salto League;Uruguay
+78047990;Rivera League;Uruguay
+78048011;Paysandú League;Uruguay
+78048056;Río Negro League;Uruguay
+78048070;Durazno League;Uruguay
+78048084;Treinta y Tres League;Uruguay
+78048098;Soriano League;Uruguay
+78048113;Flores League;Uruguay
+78048129;Florida League;Uruguay
+78048143;Lavalleja League;Uruguay
+78048161;San José League;Uruguay
+79010950;First Division;Paraguay
+79010962;Intermedia;Paraguay
+79010975;B Metropolitana;Paraguay
+79010976;Fourth Division;Paraguay
+79010977;Nacional B;Paraguay
+79023439;B Nacional;Paraguay
+80000563;Primera División;Costa Rica
+80000564;Liga de Ascenso;Costa Rica
+80000565;Lower Division;Costa Rica
+80000566;Serie A;Ecuador
+80000567;Serie B;Ecuador
+80000568;Lower Division;Ecuador
+80010007;Segunda División;Panama
+80024180;Segunda Division;Nicaragua
+81001093;Jamaican NPL;Jamaica
+81001139;KSAFA Super League;Jamaica
+81001140;Western Super League;Jamaica
+81001143;KSAFA Major League;Jamaica
+81010190;Westmore. Major League;Jamaica
+81010191;Hanover Major League;Jamaica
+81010192;St. James Senior League;Jamaica
+81010193;Trelawny Major League;Jamaica
+81010194;St. Eliz. Major League;Jamaica
+81010195;St. Ann Major League;Jamaica
+81010196;Manchester Major League;Jamaica
+81010197;Clarendon Major League;Jamaica
+81010198;St. Cath. Major League;Jamaica
+81010199;St. Mary Major League;Jamaica
+81010200;Portland Major League;Jamaica
+81010201;St. Thomas Major League;Jamaica
+81060705;St. Eliz/Manchester SL;Jamaica
+81060706;Clarendon/St. Cath SL;Jamaica
+82000461;Pro League;Trinidad and Tobago
+82001154;Premier Division;Bermuda
+82002896;TT Super League;Trinidad and Tobago
+82060936;Haitian Lower Division;Haiti
+82061057;LDF;Dominican Republic
+82061071;LDF Serie B;Dominican Republic
+82061799;Premier Division;Grenada
+82061861;Premier League;Barbados
+82061873;Kampionato;Bonaire
+82061953;Senior League;Anguilla
+82061993;Division di Honor;Aruba
+82062008;Division Uno;Aruba
+82062063;Island Leagues;Bahamas
+82062118;Division One;Barbados
+82062120;Division 2;Barbados
+82062206;Corona League;Bermuda
+82062234;Premier League;Virgin Islands (British)
+82062246;First Division;Virgin Islands (British)
+82062411;Régional 1;French Guiana
+82062570;Régionale 1;Guadeloupe
+82062572;Ligue Régionale 3;Guadeloupe
+82062798;Régionale 1;Martinique
+82062881;Championship;Montserrat
+82063041;Championship;Saint Martin (French part)
+82063130;Championship;Sint Maarten (Dutch part)
+82063267;Premier League;Turks and Caicos Islands
+82063315;Club Championship;Virgin Islands (U.S.)
+82070618;Lower Leagues;Belize
+82071161;SL Championship;Trinidad and Tobago
+82074236;Second Division;Antigua and Barbuda
+82076123;Liga PR;Puerto Rico
+82076276;PRSL 2nd Div.;Puerto Rico
+82079663;Other Teams;Sint Maarten (Dutch part)
+82081060;Lower division;Suriname
+82081260;Lower Leagues;Dominican Republic
+82082544;SB Ligue;Saint Barthélemy
+82083139;Lower Division;Saint Kitts and Nevis
+82083790;NFA Divisions;Trinidad and Tobago
+82083791;SFA Divisions;Trinidad and Tobago
+82083792;Eastern Counties Division;Trinidad and Tobago
+82083794;EFA Divisions;Trinidad and Tobago
+82083795;CFA Divisions;Trinidad and Tobago
+82083796;Tobago Divisions;Trinidad and Tobago
+82086013;Other teams;Saint Barthélemy
+82086484;R2 Poule Centre Est;French Guiana
+82086487;R2 Poule Ouest;French Guiana
+82086536;R2 Poule A;Guadeloupe
+82086538;Régionale 2 Poule B;Guadeloupe
+82086556;Régionale 2 Groupe A;Martinique
+82086575;Régionale 2 Groupe B;Martinique
+82086577;Régionale 3;Martinique
+82087027;NW Conference;Grenada
+82087039;Eastern Conference;Grenada
+82087044;Southern Conference;Grenada
+82087049;Central Conference;Grenada
+82087844;Atlantic Division;Bahamas
+82087846;Oceanic League;Bahamas
+83141246;Braga Pro-National;Portugal
+83141248;Lisbon Pro-National;Portugal
+83141250;Aveiro First Division;Portugal
+83141251;Viseu Honor Division;Portugal
+83141252;Azores League;Portugal
+83141253;Leiria Honor Division;Portugal
+83141254;Coimbra Honor Division;Portugal
+83141255;Santarém Honor Division;Portugal
+83141256;Viana First Division;Portugal
+83141257;Setúbal First Division;Portugal
+83141258;Vila Real Honor Division;Portugal
+83141259;Évora Elite Division;Portugal
+83141260;Madeira Honor Division;Portugal
+83141261;Beja First Division;Portugal
+83141262;Castelo Branco 1D;Portugal
+83141263;Bragança Honor Division;Portugal
+83141264;Portalegre Honor Division;Portugal
+83141265;Algarve First Division;Portugal
+83141266;Guarda First Division;Portugal
+83148877;Lower Regional Divisions;Portugal
+83169224;Porto Elite Serie 1;Portugal
+83169225;Porto Elite Serie 2;Portugal
+83191750;U19 2D;Portugal
+83191756;U19 MD;Portugal
+83191761;U19 Algarve;Portugal
+83191762;U19 Aveiro;Portugal
+83191763;U23 Beja;Portugal
+83191764;U19 Braga;Portugal
+83191765;U19 Bragança;Portugal
+83191766;U19 Castelo Branco;Portugal
+83191767;U19 Coimbra;Portugal
+83191770;U19 Guarda;Portugal
+83191771;U19 Leiria;Portugal
+83191773;U19 Portalegre;Portugal
+83191777;U19 Santarém;Portugal
+83191778;U19 Setúbal;Portugal
+83191779;U19  Viana do Castelo;Portugal
+83191780;U19 Vila Real;Portugal
+83191782;U19 South Viseu;Portugal
+83191783;U19 North Viseu;Portugal
+83192131;U19 Azores;Portugal
+83208755;Porto Honor Division 1;Portugal
+83208756;Porto Honor Division 2;Portugal
+83216023;U19 MD 2D;Portugal
+83223443;U19 Lower Divisions;Portugal
+84150339;U18 Elite;Switzerland
+84150351;U18 (17);Switzerland
+85062891;U17;France
+86000000;Premier Division;Bolivia
+86000001;Premier Division;Venezuela
+86000002;Second Division;Venezuela
+86000021;Primera Division;Panama
+86000027;Primera Division;Nicaragua
+86009019;Second Division;Bolivia
+87000201;Liga Nacional;Honduras
+87000202;Liga de Ascenso;Honduras
+87000495;Liga Nacional;Guatemala
+87000505;Primera División;Guatemala
+87001116;Primera División;El Salvador
+87001465;Premier League;Belize
+87001812;Segunda División;El Salvador
+87006846;Segunda División;Guatemala
+88006344;Central League;New Zealand
+88006348;NRFL Division 1;New Zealand
+88006349;Mainland Premier;New Zealand
+88006350;South Premier;New Zealand
+88006351;Central Fed Premier;New Zealand
+88006353;NRFL Division 2;New Zealand
+88027101;PNG Northern Conference;Papua New Guinea
+88027102;PNG Southern Conference;Papua New Guinea
+88027103;PNG Highlands Conference;Papua New Guinea
+88027104;PNG Islands Conference;Papua New Guinea
+89056580;Superleague;Kosovo
+89056581;First League;Kosovo
+89056582;Second Division;Kosovo
+90081108;Northern Premier D1E;United Kingdom
+90081109;Northern Premier D1W;United Kingdom
+90086668;Scottish U18 League;United Kingdom
+91107110;Regional Div. Northeast;Germany
+91107111;Regional Div. Bavaria;Germany
+91109039;Bavaria North;Germany
+91109040;Bavaria South;Germany
+91109041;Lower Rhine;Germany
+91109042;Middle Rhine;Germany
+92086575;U19 Div. 2 North;Germany
+92086579;U19 Div. 2 Southwest;Germany
+94048275;Southern Premier Central;United Kingdom
+94048276;Southern Premier South;United Kingdom
+96056824;Fourth Division;Poland
+96116933;Third Division Group 1;Poland
+96116934;Third Division Group 2;Poland
+96116935;Third Division Group 3;Poland
+96116936;Third Division Group 4;Poland
+96501381;Moldovan Divizia B Centru;Moldova
+98005769;Second League Inter Gr 1;Switzerland
+98005770;Second League Inter Gr 2;Switzerland
+98005771;Second League Inter Gr 3;Switzerland
+98005772;Second League Inter Gr 4;Switzerland
+98005773;Second League Inter Gr 5;Switzerland
+98008693;Second League Inter Gr 6;Switzerland
+98027828;Promotion League;Switzerland

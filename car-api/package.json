@@ -1,0 +1,22 @@
+{
+  "name": "car-api",
+  "version": "1.0.0",
+  "description": "Create CAR file in Docker",
+  "type": "module",
+  "author": "Pronochain",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.9",
+    "axios": "^0.26.1",
+    "body-parser": "^1.20.0",
+    "carbites": "^1.0.6",
+    "express": "^4.16.1",
+    "ipfs-car": "^0.7.0",
+    "multiformats": "^9.6.4",
+    "nft.storage": "^6.2.0"
+  }
+}

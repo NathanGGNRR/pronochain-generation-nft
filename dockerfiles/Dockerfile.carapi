@@ -1,0 +1,21 @@
+FROM node:17-alpine AS base
+
+WORKDIR /src
+COPY ./car-api/ /
+EXPOSE 8080
+
+RUN --mount=type=cache,target=/root/.cache \
+    npm cache clean --force
+RUN --mount=type=cache,target=/root/.cache \
+    npm install -g nodemon
+RUN --mount=type=cache,target=/root/.cache \
+    npm install
+
+FROM base AS dev
+
+ENTRYPOINT [ "npm", "run", "dev" ]
+
+FROM base AS prod
+
+RUN npm ci --only=production
+ENTRYPOINT [ "npm", "run", "start" ]
